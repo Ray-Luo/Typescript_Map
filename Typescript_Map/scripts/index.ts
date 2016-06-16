@@ -4,7 +4,6 @@
 // and then run "window.location.reload()" in the JavaScript Console.
 
 /// <reference path="jquery.d.ts"/>
-/// <reference path="leaflet.d.ts"/>
 /// <reference path="map.ts"/>
 //import Map = require('Map');
 

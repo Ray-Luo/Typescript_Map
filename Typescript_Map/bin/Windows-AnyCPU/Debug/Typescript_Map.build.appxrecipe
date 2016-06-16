@@ -256,6 +256,12 @@
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\info-white.png">
       <PackagePath>www\css\images\icons-png\info-white.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\layers-2x.png">
+      <PackagePath>www\css\images\icons-png\layers-2x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\layers.png">
+      <PackagePath>www\css\images\icons-png\layers.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\location-black.png">
       <PackagePath>www\css\images\icons-png\location-black.png</PackagePath>
     </AppxPackagedFile>
@@ -273,6 +279,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\mail-white.png">
       <PackagePath>www\css\images\icons-png\mail-white.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\marker-icon-2x.png">
+      <PackagePath>www\css\images\icons-png\marker-icon-2x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\marker-icon.png">
+      <PackagePath>www\css\images\icons-png\marker-icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\marker-shadow.png">
+      <PackagePath>www\css\images\icons-png\marker-shadow.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\minus-black.png">
       <PackagePath>www\css\images\icons-png\minus-black.png</PackagePath>
@@ -406,6 +421,15 @@
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\leaflet-0.7.3.min.js">
       <PackagePath>www\scripts\leaflet-0.7.3.min.js</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\leaflet.draw.js">
+      <PackagePath>www\scripts\leaflet.draw.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\leaflet.geometryutil.js">
+      <PackagePath>www\scripts\leaflet.geometryutil.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\leaflet.js">
+      <PackagePath>www\scripts\leaflet.js</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\platformOverrides.js">
       <PackagePath>www\scripts\platformOverrides.js</PackagePath>
     </AppxPackagedFile>
@@ -420,6 +444,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\ajax-loader.gif">
       <PackagePath>www\css\images\ajax-loader.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\ajax-loader.gif">
+      <PackagePath>www\css\images\icons-png\ajax-loader.gif</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\action-black.svg">
       <PackagePath>www\css\images\icons-svg\action-black.svg</PackagePath>
@@ -768,6 +795,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\leaflet.css">
       <PackagePath>www\css\leaflet.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\leaflet.draw.css">
+      <PackagePath>www\css\leaflet.draw.css</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\index.html">
       <PackagePath>www\index.html</PackagePath>
