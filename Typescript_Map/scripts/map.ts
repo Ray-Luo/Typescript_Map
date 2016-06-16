@@ -94,20 +94,53 @@ module Map
 
             var drawnItems = new L.FeatureGroup();
             Map.mymap.addLayer(drawnItems);
-
-            
-
+                    
             var drawControl = new L.Control.Draw({
                 edit: {
                     featureGroup: drawnItems
                 }
             });
             
-            Map.mymap.addControl(drawControl);
+            Map.mymap.addControl(drawControl);  
+
+            Map.mymap.on('draw:created', function (e) {
+                var type = e.layerType,
+                    layer = e.layer;
+                
+                if (type === 'marker') {
+                    // Do marker specific actions
+                    //var point: L.Marker = new L.Marker([]);
+                   // point = <L.Marker>layer;
+                    //point.editing.enable();
+                }
+
+                var polygon = new L.Polygon([
+                    [51.51, -0.1],
+                    [51.5, -0.06],
+                    [51.52, -0.03]
+                ]);
+                polygon.enableEdit();
+
+                // Do whatever else you need to. (save to db, add to map etc)
+                Map.mymap.addLayer(layer);
+            });
+
+            Map.mymap.on('draw:edited', function (e) {
+                var type = e.layerType,
+                    layer = e.layer;
+
+                if (type === 'marker') {
+                    // Do marker specific actions
+                }
+
+                // Do whatever else you need to. (save to db, add to map etc)
+                Map.mymap.addLayer(layer);
+            });
+
 
             function onMapClick(e) {
               // var popup = L.popup(); popup.setLatLng(e.latlng).setContent("You clicked the map at " + e.latlng.toString()).openOn(Map.mymap);
-
+/*
                 var point = new L.LatLng(Number(e.latlng.lat.toString()), Number(e.latlng.lng.toString()));
 
                 //  Save them in the db
@@ -125,7 +158,7 @@ module Map
                 if (Map.temp_polyline != null)
                     Map.mymap.removeLayer(Map.temp_polyline);
                 Map.temp_polyline = new L.Polyline(Map.pt_list).addTo(Map.mymap);
-
+*/
             }
 
             Map.mymap.on('click', onMapClick);
@@ -135,7 +168,8 @@ module Map
         {                      
             Map.db = new PouchDB("LeveeInspection_1");
 
-            /*
+            {
+             /*
             Map.db.destroy().then(function (response) {
                 // success
             }).catch(function (err) {
@@ -164,11 +198,11 @@ module Map
                 path_pt: []
             }
 
-            Map.db.bulkDocs([line]);*/
+            Map.db.bulkDocs([line]);*/ }
 
             Map.db.allDocs({ include_docs: true, descending: true }, function (err, result) {
                 var features = result.rows;
-
+                /*
                 Map.pt_list.push(features[0].doc.base_pt[1]);
 
                 var path_pt_length = features[0].doc.path_pt.length;
@@ -182,9 +216,8 @@ module Map
 
                 Map.db.allDocs({ include_docs: true, descending: true }, function (err, result) {
                     var features = result.rows;
-                });
-                
-
+                });                
+                */
             });
 
 

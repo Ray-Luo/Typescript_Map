@@ -62,61 +62,59 @@ var Map;
                 }
             });
             Map.mymap.addControl(drawControl);
+            Map.mymap.on('draw:created', function (e) {
+                var type = e.layerType, layer = e.layer;
+                if (type === 'marker') {
+                }
+                var polygon = new L.Polygon([
+                    [51.51, -0.1],
+                    [51.5, -0.06],
+                    [51.52, -0.03]
+                ]);
+                polygon.enableEdit();
+                // Do whatever else you need to. (save to db, add to map etc)
+                Map.mymap.addLayer(layer);
+            });
+            Map.mymap.on('draw:edited', function (e) {
+                var type = e.layerType, layer = e.layer;
+                if (type === 'marker') {
+                }
+                // Do whatever else you need to. (save to db, add to map etc)
+                Map.mymap.addLayer(layer);
+            });
             function onMapClick(e) {
                 // var popup = L.popup(); popup.setLatLng(e.latlng).setContent("You clicked the map at " + e.latlng.toString()).openOn(Map.mymap);
-                var point = new L.LatLng(Number(e.latlng.lat.toString()), Number(e.latlng.lng.toString()));
-                //  Save them in the db
-                Map.db.get('line').then(function (line) {
-                    line.path_pt.push(point);
-                    return Map.db.put(line);
-                }).then(function () {
-                    return Map.db.get('line');
-                }).then(function (doc) {
-                    console.log(doc);
-                });
-                //  Show them
-                Map.pt_list.push(point);
-                if (Map.temp_polyline != null)
-                    Map.mymap.removeLayer(Map.temp_polyline);
-                Map.temp_polyline = new L.Polyline(Map.pt_list).addTo(Map.mymap);
+                /*
+                                var point = new L.LatLng(Number(e.latlng.lat.toString()), Number(e.latlng.lng.toString()));
+                
+                                //  Save them in the db
+                                Map.db.get('line').then(function (line) {
+                                    line.path_pt.push(point);
+                                    return Map.db.put(line);
+                                }).then(function () {
+                                    return Map.db.get('line');
+                                }).then(function (doc) {
+                                    console.log(doc);
+                                    });
+                
+                                //  Show them
+                                Map.pt_list.push(point);
+                                if (Map.temp_polyline != null)
+                                    Map.mymap.removeLayer(Map.temp_polyline);
+                                Map.temp_polyline = new L.Polyline(Map.pt_list).addTo(Map.mymap);
+                */
             }
             Map.mymap.on('click', onMapClick);
         };
         Map.prototype.setup_puuchDB = function () {
             Map.db = new PouchDB("LeveeInspection_1");
-            /*
-            Map.db.destroy().then(function (response) {
-                // success
-            }).catch(function (err) {
-                console.log(err);
-            });
-
-            Map.db.allDocs({ include_docs: true, descending: true }, function (err, result) {
-                var features = result.rows;
-
-                for (var i = 0; i < features.length; i++) {
-                    //  if it is a point
-                    Map.db.get(features[i].doc._id).then(function (doc) {
-                        return Map.db.remove(doc);
-                    });
-                    
-                }
-            });
-
-            var base_pt_start = new L.LatLng(36, -96);
-            var base_pt_end = new L.LatLng(36.1, -96.1);
-
-            var line = {
-                _id: "line",
-                flag: Map.line_flag,
-                base_pt: [base_pt_start, base_pt_end],
-                path_pt: []
+            {
             }
-
-            Map.db.bulkDocs([line]);*/
             Map.db.allDocs({ include_docs: true, descending: true }, function (err, result) {
                 var features = result.rows;
+                /*
                 Map.pt_list.push(features[0].doc.base_pt[1]);
+
                 var path_pt_length = features[0].doc.path_pt.length;
                 if (path_pt_length != 0)
                     for (var i = 0; i < path_pt_length; i++)
@@ -124,9 +122,12 @@ var Map;
                 Map.pt_list.push(features[0].doc.base_pt[0]);
                 Map.pt_list.push(features[0].doc.base_pt[1]);
                 Map.temp_polyline = new L.Polyline(Map.pt_list).addTo(Map.mymap);
+
+
                 Map.db.allDocs({ include_docs: true, descending: true }, function (err, result) {
                     var features = result.rows;
                 });
+                */
             });
             /*
             db.changes({
