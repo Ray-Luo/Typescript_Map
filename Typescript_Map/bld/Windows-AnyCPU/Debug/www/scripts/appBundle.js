@@ -54,33 +54,48 @@ var Map;
                 [39.19, -96.6],
                 [39.17, -96.55]
             ]).addTo(Map.mymap).bindPopup("I am a polygon.");
-            var drawnItems = new L.FeatureGroup();
-            Map.mymap.addLayer(drawnItems);
+            Map.drawnItems = new L.FeatureGroup();
+            Map.mymap.addLayer(Map.drawnItems);
             var drawControl = new L.Control.Draw({
                 edit: {
-                    featureGroup: drawnItems
+                    featureGroup: Map.drawnItems
                 }
             });
             Map.mymap.addControl(drawControl);
             Map.mymap.on('draw:created', function (e) {
+                Map._this.deleteAllDocs();
                 var type = e.layerType, layer = e.layer;
-                if (type === 'marker') {
-                }
-                var polygon = new L.Polygon([
-                    [51.51, -0.1],
-                    [51.5, -0.06],
-                    [51.52, -0.03]
-                ]);
-                polygon.enableEdit();
-                // Do whatever else you need to. (save to db, add to map etc)
+                Map.drawnItems.addLayer(layer);
                 Map.mymap.addLayer(layer);
             });
             Map.mymap.on('draw:edited', function (e) {
-                var type = e.layerType, layer = e.layer;
-                if (type === 'marker') {
-                }
-                // Do whatever else you need to. (save to db, add to map etc)
-                Map.mymap.addLayer(layer);
+                var shape;
+                var layers = e.layers;
+                var attachment;
+                var element;
+                Map.db = new PouchDB("LeveeInspection_1");
+                //  Add all layers
+                layers.eachLayer(function (layer) {
+                    Map.drawnItems.addLayer(layer);
+                });
+                // Save everyting to DB
+                Map.drawnItems.eachLayer(function (layer) {
+                    shape = layer.toGeoJSON();
+                    //do whatever you want, most likely save back to db
+                    attachment = JSON.stringify(shape);
+                    element = {
+                        // _id: "test" + new Date().toISOString(),
+                        feature: attachment
+                    };
+                    Map.db.post(element).then(function () {
+                        var a = 1;
+                    }).catch(function (err) {
+                        if (err.name === 'conflict') {
+                        }
+                        else {
+                        }
+                    });
+                });
             });
             function onMapClick(e) {
                 // var popup = L.popup(); popup.setLatLng(e.latlng).setContent("You clicked the map at " + e.latlng.toString()).openOn(Map.mymap);
@@ -106,28 +121,26 @@ var Map;
             }
             Map.mymap.on('click', onMapClick);
         };
+        Map.prototype.deleteAllDocs = function () {
+            //  Delete everything
+            Map.db.destroy().then(function (response) {
+                // success
+            }).catch(function (err) {
+                console.log(err);
+            });
+        };
         Map.prototype.setup_puuchDB = function () {
             Map.db = new PouchDB("LeveeInspection_1");
             {
             }
             Map.db.allDocs({ include_docs: true, descending: true }, function (err, result) {
                 var features = result.rows;
-                /*
-                Map.pt_list.push(features[0].doc.base_pt[1]);
-
-                var path_pt_length = features[0].doc.path_pt.length;
-                if (path_pt_length != 0)
-                    for (var i = 0; i < path_pt_length; i++)
-                        Map.pt_list.push(features[0].doc.path_pt[i]);
-                Map.pt_list.push(features[0].doc.base_pt[0]);
-                Map.pt_list.push(features[0].doc.base_pt[1]);
-                Map.temp_polyline = new L.Polyline(Map.pt_list).addTo(Map.mymap);
-
-
-                Map.db.allDocs({ include_docs: true, descending: true }, function (err, result) {
-                    var features = result.rows;
-                });
-                */
+                for (var i = 0; i < features.length; i++) {
+                    var json = JSON.parse(features[i].doc.feature);
+                    var geoJSON = L.geoJson(json);
+                    var newLayer = geoJSON.getLayers()[0];
+                    Map.drawnItems.addLayer(newLayer);
+                }
             });
             /*
             db.changes({
@@ -137,7 +150,6 @@ var Map;
         };
         Map.point_flag = 0;
         Map.line_flag = 1;
-        //  public static length;
         Map.pt_list = [];
         return Map;
     }());
