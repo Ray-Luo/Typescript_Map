@@ -131,7 +131,7 @@ module Map
                     layer.title = title,
                     layerJSON = layer.toGeoJSON(),
                     newFeature = {
-                            _id: title,
+                            _id: title, //   new branch
                             jsonString: JSON.stringify(layerJSON)
                         };
 
