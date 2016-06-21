@@ -52,6 +52,9 @@
       <PackagePath>images\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\cancel.png">
+      <PackagePath>www\css\images\cancel.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\action-black.png">
       <PackagePath>www\css\images\icons-png\action-black.png</PackagePath>
     </AppxPackagedFile>

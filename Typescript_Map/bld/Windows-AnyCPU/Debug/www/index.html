@@ -1,65 +1,77 @@
 ﻿<!DOCTYPE html>
 <html>
-    <head>
+<head>
     <!--
         Customize the content security policy in the meta tag below as needed. Add 'unsafe-inline' to default-src to enable inline JavaScript.
         For details, see http://go.microsoft.com/fwlink/?LinkID=617521
     -->
-        <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: https://ssl.gstatic.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *">
-        
-        <meta name="format-detection" content="telephone=no">
-        <meta name="msapplication-tap-highlight" content="no">
-        
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-        <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v1.0.0-rc.1/leaflet.css" />
-        <link rel="stylesheet" type="text/css" href="css/index.css">
-        <link rel="stylesheet" href="css/jquery.mobile-1.4.5.min.css" />
-        <link rel="stylesheet" href="css/leaflet.css" />
-        <link rel="stylesheet" href="css/leaflet.draw.css" />
-        <title>TypescriptMap</title>
-    </head>
-    <body>
-        <div class="app">
-            <div id="deviceready" class="blink">
-                <p class="event listening">Connecting to Device</p>
-                <p class="event received">Device is Ready</p>
-            </div>
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: https://ssl.gstatic.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *">
+
+    <meta name="format-detection" content="telephone=no">
+    <meta name="msapplication-tap-highlight" content="no">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v1.0.0-rc.1/leaflet.css" />
+    <link rel="stylesheet" type="text/css" href="css/index.css">
+    <link rel="stylesheet" href="css/jquery.mobile-1.4.5.min.css" />
+    <link rel="stylesheet" href="css/leaflet.css" />
+    <link rel="stylesheet" href="css/leaflet.draw.css" />
+    <title>TypescriptMap</title>
+</head>
+<body  style="overflow:hidden;">
+    <div class="app">
+        <div id="deviceready" class="blink">
+            <p class="event listening">Connecting to Device</p>
+            <p class="event received">Device is Ready</p>
+        </div>
+    </div>
+
+    <div data-role="page" id="page">
+        <div data-role="header" id="header">
+            <h1>Typescript Leaflet Sample</h1>
         </div>
 
-        <div data-role="page" id="page">
-            <div data-role="header" id="header">
-                <h1>Typescript Leaflet Sample</h1>
-            </div>
-
-            <div data-role="content" id="content">
-                <p id="words" style="font-size:24px;">Welcome</p>
-                <div id="mapid"></div>
-            </div>
-
-            <form id="form">
-                X:<input type="number" id="point1_x"/>
-                Y:<input type="number" id="point1_y"/>
-                If a line, X:<input type="number" id="point2_x" />
-                Y:<input type="number" id="point2_y" />
-                <br/>
-                <input type="submit" id="submit" value="Add"/>
-            </form>
-
-            <div data-role="footer" id="footer">
-                <h1>Sample</h1>
-            </div>
-
+        <div data-role="content" id="content">
+            <div id="mapid"></div>
         </div>
-        <script type="text/javascript" src="cordova.js"></script>
-        <script type="text/javascript" src="scripts/platformOverrides.js"></script>
-        <script type="text/javascript" src="scripts/appBundle.js"></script>
-        <script src="scripts/jquery-2.2.3.min.js"></script>
-        <script src="scripts/jquery.mobile-1.4.5.min.js"></script>
-        <script src="scripts/leaflet-0.7.3.min.js"></script>
-        <script src="http://cdn.leafletjs.com/leaflet/v1.0.0-rc.1/leaflet.js"></script>
-        <script src="scripts/pouchdb.min.js"></script>
-        <script src="scripts/leaflet.draw.js"></script>
-        <script src="scripts/leaflet.geometryutil.js"></script>
-        
-    </body>
+
+        <div data-role="content">
+        <button id="new-task" type="button">New Task</button> 
+        <button id="save-task" type="button">Save Task</button> 
+        <button id="edit-task" type="button">Edit Task</button> 
+        <button id="delete-task" type="button">Delete Task</button>
+        </div>
+
+        <div id="abc">
+            <!-- Popup Div Starts Here -->
+            <div id="popupContact">
+                <!-- Contact Us Form -->
+                <form action="#" id="form" method="post" name="form">
+                    <img id="close" src="css/images/cancel.png" onclick="div_hide()">
+                    <h2>Contact Us</h2>
+                    <hr>
+                    <input id="name" name="name" placeholder="Name" type="text">
+                    <input id="email" name="email" placeholder="Email" type="text">
+                    <textarea id="msg" name="message" placeholder="Message"></textarea>
+                    <a href="javascript:%20check_empty()" id="submit">Send</a>
+                </form>
+            </div>
+            <!-- Popup Div Ends Here -->
+        </div>
+
+
+
+    </div>
+    <script type="text/javascript" src="cordova.js"></script>
+    <script type="text/javascript" src="scripts/platformOverrides.js"></script>
+    <script type="text/javascript" src="scripts/appBundle.js"></script>
+    <script src="scripts/jquery-2.2.3.min.js"></script>
+    <script src="scripts/jquery.mobile-1.4.5.min.js"></script>
+    <script src="scripts/leaflet-0.7.3.min.js"></script>
+    <script src="http://cdn.leafletjs.com/leaflet/v1.0.0-rc.1/leaflet.js"></script>
+    <script src="scripts/pouchdb.min.js"></script>
+    <script src="scripts/leaflet.draw.js"></script>
+    <script src="scripts/leaflet.geometryutil.js"></script>
+
+</body>
 </html>

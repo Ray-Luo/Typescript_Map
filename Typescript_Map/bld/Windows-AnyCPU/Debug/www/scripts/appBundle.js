@@ -26,13 +26,15 @@ var Map;
                 Map.mymap.setView([(x1 + x2) / 2, (y1 + y2) / 2]);
             };
             Map._this = this;
-            var button = document.querySelector('#submit');
+            var new_task_btn = document.querySelector('#new-task');
+            var save_task_btn = document.querySelector('#save-task');
+            var edit_task_btn = document.querySelector('#edit-task');
+            var delete_task_btn = document.querySelector('#delete-task');
+            new_task_btn.addEventListener('click', function (e) {
+                document.getElementById('abc').style.display = "block";
+            });
             this.initialize_map();
             this.setup_puuchDB();
-            button.addEventListener('click', function (e) {
-                Map._this.addFeature(Number($("#point1_x").val()), Number($("#point1_y").val()), Number($("#point2_x").val()), Number($("#point2_y").val()));
-                e.preventDefault();
-            });
         }
         Map.prototype.initialize_map = function () {
             $("h1").css("font-size", "36px");
@@ -206,4 +208,28 @@ var TypescriptMap;
         Application.initialize();
     };
 })(TypescriptMap || (TypescriptMap = {}));
+var Task;
+(function (Task_1) {
+    "use strict";
+    var Task = (function () {
+        function Task() {
+            this.features = new L.FeatureGroup();
+        }
+        Task.prototype.addTask = function (name, author) {
+            this.name = name;
+            this.author = author;
+        };
+        Task.prototype.saveTask = function () {
+            //  Save to DB
+        };
+        Task.prototype.editTask = function () {
+            //  Edit features on the map
+        };
+        Task.prototype.deleteTask = function () {
+            //  delete DB entry
+        };
+        return Task;
+    }());
+    Task_1.Task = Task;
+})(Task || (Task = {}));
 //# sourceMappingURL=appBundle.js.map

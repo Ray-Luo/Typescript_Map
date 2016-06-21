@@ -30,16 +30,22 @@ module Map
         constructor(form: HTMLFormElement) {
             Map._this = this;
 
-            var button = document.querySelector('#submit');
+            var new_task_btn = document.querySelector('#new-task');
+            var save_task_btn = document.querySelector('#save-task');
+            var edit_task_btn = document.querySelector('#edit-task');
+            var delete_task_btn = document.querySelector('#delete-task');
+
+            new_task_btn.addEventListener('click', function (e) {
+
+                document.getElementById('abc').style.display = "block";
+                
+            });
             
             this.initialize_map();
 
             this.setup_puuchDB();
 
-            button.addEventListener('click', function (e) {
-                Map._this.addFeature(Number($("#point1_x").val()), Number($("#point1_y").val()), Number($("#point2_x").val()), Number($("#point2_y").val()));                
-                e.preventDefault();
-            });
+
         }
                 
         addFeature = (x1: number, y1: number, x2: number, y2: number): void => {
@@ -131,7 +137,7 @@ module Map
                     layer.title = title,
                     layerJSON = layer.toGeoJSON(),
                     newFeature = {
-                            _id: title, //   new branch
+                            _id: title,
                             jsonString: JSON.stringify(layerJSON)
                         };
 
