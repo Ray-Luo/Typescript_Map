@@ -23,7 +23,7 @@ module Map
         public static pt_list = [];
         public static temp_polyline;
         public static drawnItems;
-       
+        public static html_window = window;
 
 
 
@@ -67,7 +67,7 @@ module Map
             $("h1").css("font-size", "36px");
 
             
-
+           
             Map.mymap = new L.Map('mapid', { editable:true}).setView([36,-96], 13);
 
             
@@ -108,60 +108,80 @@ module Map
             Map.mymap.addControl(drawControl);  
 
            
-
+            //  Fired when start editting
             Map.mymap.on('draw:created', function (e) {
-                Map._this.deleteAllDocs();
+                var title,
+                    type = e.layerType,
+                    layer = e.layer,
+                    layerJSON,
+                    newFeature;
 
 
-                var type = e.layerType,
-                    layer = e.layer;
+                navigator.notification.prompt(
+                    'Please give a title',  // message
+                    saveFeatureToDB,        // callback to invoke
+                    'New Task',            // title
+                    ['Ok', 'Exit'],             // buttonLabels
+                    'Inspection #1'                 // defaultText
+                );
+
+                function saveFeatureToDB(results):void
+                {
+                    title = results.input1;
+                    layer.title = title,
+                    layerJSON = layer.toGeoJSON(),
+                    newFeature = {
+                            _id: title,
+                            jsonString: JSON.stringify(layerJSON)
+                        };
+
+                    //  save in db
+                    Map.db.put(newFeature).then(function () {
+                    }).catch(function (err) {
+                        if (err.name === 'conflict') {
+                            window.alert("This title has already been used please give it another title");
+                        } else {
+                            // some other error
+                        }
+                    });
+                }
+
                 
+
+                //  add layer to map
                 Map.drawnItems.addLayer(layer); 
                 Map.mymap.addLayer(layer);
-
-
-
-
             });
 
+
+            //  Fired when finished editting
             Map.mymap.on('draw:edited', function (e) {
                 var shape;
                 var layers = e.layers;
-                var attachment;
-                var element;
-                Map.db = new PouchDB("LeveeInspection_1");
-                //  Add all layers
+
                 layers.eachLayer(function (layer) {
-                    Map.drawnItems.addLayer(layer);
-                });
+                    //do whatever you want, most likely save back to db
+                    var layerJSON = layer.toGeoJSON();
 
-                
-
-                    // Save everyting to DB
-                    Map.drawnItems.eachLayer(function (layer) {
-                        shape = layer.toGeoJSON();
-                        //do whatever you want, most likely save back to db
-
-                        attachment = JSON.stringify(shape);
-                        element = {
-                           // _id: "test" + new Date().toISOString(),
-                            feature: attachment
-                        };
-                        Map.db.post(element).then(function () {
-                            var a = 1;
-                        }).catch(function (err) {
-                            if (err.name === 'conflict') {
-                                // conflict!
-                            } else {
-                                // some other error
-                            }
+                    Map.db.get(layer.title).then(function (doc) {
+                        return Map.db.put({
+                            _id: doc._id,
+                            _rev: doc._rev,
+                            jsonString: JSON.stringify(layerJSON)
                         });
+                    }).then(function (response) {
+                        // handle response
+                    }).catch(function (err) {
+                        console.log(err);
                     });
-                
+                });
+            });
 
-            
 
-           });
+            Map.mymap.on('draw:deleted', function (e) {
+                // Update db to save latest changes.
+                var i = 1;
+            });
 
             function onMapClick(e) {
               // var popup = L.popup(); popup.setLatLng(e.latlng).setContent("You clicked the map at " + e.latlng.toString()).openOn(Map.mymap);
@@ -187,16 +207,6 @@ module Map
             }
 
             Map.mymap.on('click', onMapClick);
-        }
-
-
-        deleteAllDocs(): void {
-            //  Delete everything
-            Map.db.destroy().then(function (response) {
-                // success
-            }).catch(function (err) {
-                console.log(err);
-            });   
         }
 
         setup_puuchDB(): void
@@ -230,7 +240,7 @@ module Map
 
                 for (var i = 0; i < features.length; i++)
                 {
-                    var json = JSON.parse(features[i].doc.feature);
+                    var json = JSON.parse(features[i].doc.jsonString);
                     var geoJSON = L.geoJson(json);
                     var newLayer = geoJSON.getLayers()[0];
                     Map.drawnItems.addLayer(newLayer);

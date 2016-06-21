@@ -730,6 +730,12 @@
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\cordova_plugins.js">
       <PackagePath>www\cordova_plugins.js</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\plugins\cordova-plugin-dialogs\src\windows\NotificationProxy.js">
+      <PackagePath>www\plugins\cordova-plugin-dialogs\src\windows\NotificationProxy.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\plugins\cordova-plugin-dialogs\www\notification.js">
+      <PackagePath>www\plugins\cordova-plugin-dialogs\www\notification.js</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\appBundle.js">
       <PackagePath>www\scripts\appBundle.js</PackagePath>
     </AppxPackagedFile>

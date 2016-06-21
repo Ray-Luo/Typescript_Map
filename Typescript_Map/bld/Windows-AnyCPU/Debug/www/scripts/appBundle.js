@@ -62,40 +62,60 @@ var Map;
                 }
             });
             Map.mymap.addControl(drawControl);
+            //  Fired when start editting
             Map.mymap.on('draw:created', function (e) {
-                Map._this.deleteAllDocs();
-                var type = e.layerType, layer = e.layer;
-                Map.drawnItems.addLayer(layer);
-                Map.mymap.addLayer(layer);
-            });
-            Map.mymap.on('draw:edited', function (e) {
-                var shape;
-                var layers = e.layers;
-                var attachment;
-                var element;
-                Map.db = new PouchDB("LeveeInspection_1");
-                //  Add all layers
-                layers.eachLayer(function (layer) {
-                    Map.drawnItems.addLayer(layer);
-                });
-                // Save everyting to DB
-                Map.drawnItems.eachLayer(function (layer) {
-                    shape = layer.toGeoJSON();
-                    //do whatever you want, most likely save back to db
-                    attachment = JSON.stringify(shape);
-                    element = {
-                        // _id: "test" + new Date().toISOString(),
-                        feature: attachment
-                    };
-                    Map.db.post(element).then(function () {
-                        var a = 1;
+                var title, type = e.layerType, layer = e.layer, layerJSON, newFeature;
+                navigator.notification.prompt('Please give a title', // message
+                saveFeatureToDB, // callback to invoke
+                'New Task', // title
+                ['Ok', 'Exit'], // buttonLabels
+                'Inspection #1' // defaultText
+                );
+                function saveFeatureToDB(results) {
+                    title = results.input1;
+                    layer.title = title,
+                        layerJSON = layer.toGeoJSON(),
+                        newFeature = {
+                            _id: title,
+                            jsonString: JSON.stringify(layerJSON)
+                        };
+                    //  save in db
+                    Map.db.put(newFeature).then(function () {
                     }).catch(function (err) {
                         if (err.name === 'conflict') {
+                            window.alert("This title has already been used please give it another title");
                         }
                         else {
                         }
                     });
+                }
+                //  add layer to map
+                Map.drawnItems.addLayer(layer);
+                Map.mymap.addLayer(layer);
+            });
+            //  Fired when finished editting
+            Map.mymap.on('draw:edited', function (e) {
+                var shape;
+                var layers = e.layers;
+                layers.eachLayer(function (layer) {
+                    //do whatever you want, most likely save back to db
+                    var layerJSON = layer.toGeoJSON();
+                    Map.db.get(layer.title).then(function (doc) {
+                        return Map.db.put({
+                            _id: doc._id,
+                            _rev: doc._rev,
+                            jsonString: JSON.stringify(layerJSON)
+                        });
+                    }).then(function (response) {
+                        // handle response
+                    }).catch(function (err) {
+                        console.log(err);
+                    });
                 });
+            });
+            Map.mymap.on('draw:deleted', function (e) {
+                // Update db to save latest changes.
+                var i = 1;
             });
             function onMapClick(e) {
                 // var popup = L.popup(); popup.setLatLng(e.latlng).setContent("You clicked the map at " + e.latlng.toString()).openOn(Map.mymap);
@@ -121,14 +141,6 @@ var Map;
             }
             Map.mymap.on('click', onMapClick);
         };
-        Map.prototype.deleteAllDocs = function () {
-            //  Delete everything
-            Map.db.destroy().then(function (response) {
-                // success
-            }).catch(function (err) {
-                console.log(err);
-            });
-        };
         Map.prototype.setup_puuchDB = function () {
             Map.db = new PouchDB("LeveeInspection_1");
             {
@@ -136,7 +148,7 @@ var Map;
             Map.db.allDocs({ include_docs: true, descending: true }, function (err, result) {
                 var features = result.rows;
                 for (var i = 0; i < features.length; i++) {
-                    var json = JSON.parse(features[i].doc.feature);
+                    var json = JSON.parse(features[i].doc.jsonString);
                     var geoJSON = L.geoJson(json);
                     var newLayer = geoJSON.getLayers()[0];
                     Map.drawnItems.addLayer(newLayer);
@@ -151,6 +163,7 @@ var Map;
         Map.point_flag = 0;
         Map.line_flag = 1;
         Map.pt_list = [];
+        Map.html_window = window;
         return Map;
     }());
     Map_1.Map = Map;
@@ -161,7 +174,6 @@ var Map;
 // and then run "window.location.reload()" in the JavaScript Console.
 /// <reference path="jquery.d.ts"/>
 /// <reference path="map.ts"/>
-//import Map = require('Map');
 var TypescriptMap;
 (function (TypescriptMap) {
     "use strict";

@@ -5,7 +5,7 @@
 
 /// <reference path="jquery.d.ts"/>
 /// <reference path="map.ts"/>
-//import Map = require('Map');
+
 
 module TypescriptMap {
     "use strict";
