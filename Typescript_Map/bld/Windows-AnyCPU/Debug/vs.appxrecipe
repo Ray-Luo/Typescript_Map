@@ -22,1944 +22,1944 @@
     <AppXManifest Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\build\windows\debug\anycpu\win8.1\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-06-21T20:29:06.374</Modified>
+      <Modified>2016-06-24T14:27:15.535</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\images\SplashScreen.scale-100.png">
       <PackagePath>images\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-06-21T20:29:04.324</Modified>
+      <Modified>2016-06-24T14:27:12.419</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\images\Square150x150Logo.scale-100.png">
       <PackagePath>images\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-06-21T20:29:04.212</Modified>
+      <Modified>2016-06-24T14:27:12.189</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\images\Square30x30Logo.scale-100.png">
       <PackagePath>images\Square30x30Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-06-21T20:29:04.241</Modified>
+      <Modified>2016-06-24T14:27:12.236</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\images\Square310x310Logo.scale-100.png">
       <PackagePath>images\Square310x310Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-06-21T20:29:04.252</Modified>
+      <Modified>2016-06-24T14:27:12.262</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\images\Square44x44Logo.scale-100.png">
       <PackagePath>images\Square44x44Logo.scale-100.png</PackagePath>
-      <Modified>2016-06-21T20:29:04.261</Modified>
+      <Modified>2016-06-24T14:27:12.281</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\images\Square70x70Logo.scale-100.png">
       <PackagePath>images\Square70x70Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-06-21T20:29:04.274</Modified>
+      <Modified>2016-06-24T14:27:12.334</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\images\Square71x71Logo.scale-100.png">
       <PackagePath>images\Square71x71Logo.scale-100.png</PackagePath>
-      <Modified>2016-06-21T20:29:04.280</Modified>
+      <Modified>2016-06-24T14:27:12.364</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\images\StoreLogo.scale-100.png">
       <PackagePath>images\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-06-21T20:29:04.294</Modified>
+      <Modified>2016-06-24T14:27:12.385</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\images\Wide310x150Logo.scale-100.png">
       <PackagePath>images\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-06-21T20:29:04.309</Modified>
+      <Modified>2016-06-24T14:27:12.404</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\cancel.png">
       <PackagePath>www\css\images\cancel.png</PackagePath>
-      <Modified>2016-06-21T20:29:00.799</Modified>
+      <Modified>2016-06-24T14:27:07.350</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\action-black.png">
       <PackagePath>www\css\images\icons-png\action-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:00.807</Modified>
+      <Modified>2016-06-24T14:27:07.350</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\action-white.png">
       <PackagePath>www\css\images\icons-png\action-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:00.814</Modified>
+      <Modified>2016-06-24T14:27:07.366</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\alert-black.png">
       <PackagePath>www\css\images\icons-png\alert-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:00.830</Modified>
+      <Modified>2016-06-24T14:27:07.381</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\alert-white.png">
       <PackagePath>www\css\images\icons-png\alert-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:00.836</Modified>
+      <Modified>2016-06-24T14:27:07.381</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\arrow-d-black.png">
       <PackagePath>www\css\images\icons-png\arrow-d-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:00.843</Modified>
+      <Modified>2016-06-24T14:27:07.381</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\arrow-d-l-black.png">
       <PackagePath>www\css\images\icons-png\arrow-d-l-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:00.847</Modified>
+      <Modified>2016-06-24T14:27:07.397</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\arrow-d-l-white.png">
       <PackagePath>www\css\images\icons-png\arrow-d-l-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:00.852</Modified>
+      <Modified>2016-06-24T14:27:07.397</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\arrow-d-r-black.png">
       <PackagePath>www\css\images\icons-png\arrow-d-r-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:00.858</Modified>
+      <Modified>2016-06-24T14:27:07.413</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\arrow-d-r-white.png">
       <PackagePath>www\css\images\icons-png\arrow-d-r-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:00.864</Modified>
+      <Modified>2016-06-24T14:27:07.413</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\arrow-d-white.png">
       <PackagePath>www\css\images\icons-png\arrow-d-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:00.870</Modified>
+      <Modified>2016-06-24T14:27:07.413</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\arrow-l-black.png">
       <PackagePath>www\css\images\icons-png\arrow-l-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:00.875</Modified>
+      <Modified>2016-06-24T14:27:07.428</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\arrow-l-white.png">
       <PackagePath>www\css\images\icons-png\arrow-l-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:00.880</Modified>
+      <Modified>2016-06-24T14:27:07.428</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\arrow-r-black.png">
       <PackagePath>www\css\images\icons-png\arrow-r-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:00.885</Modified>
+      <Modified>2016-06-24T14:27:07.444</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\arrow-r-white.png">
       <PackagePath>www\css\images\icons-png\arrow-r-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:00.890</Modified>
+      <Modified>2016-06-24T14:27:07.444</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\arrow-u-black.png">
       <PackagePath>www\css\images\icons-png\arrow-u-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:00.895</Modified>
+      <Modified>2016-06-24T14:27:07.459</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\arrow-u-l-black.png">
       <PackagePath>www\css\images\icons-png\arrow-u-l-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:00.901</Modified>
+      <Modified>2016-06-24T14:27:07.459</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\arrow-u-l-white.png">
       <PackagePath>www\css\images\icons-png\arrow-u-l-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:00.906</Modified>
+      <Modified>2016-06-24T14:27:07.459</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\arrow-u-r-black.png">
       <PackagePath>www\css\images\icons-png\arrow-u-r-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:00.912</Modified>
+      <Modified>2016-06-24T14:27:07.475</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\arrow-u-r-white.png">
       <PackagePath>www\css\images\icons-png\arrow-u-r-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:00.917</Modified>
+      <Modified>2016-06-24T14:27:07.475</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\arrow-u-white.png">
       <PackagePath>www\css\images\icons-png\arrow-u-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:00.925</Modified>
+      <Modified>2016-06-24T14:27:07.491</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\audio-black.png">
       <PackagePath>www\css\images\icons-png\audio-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:00.931</Modified>
+      <Modified>2016-06-24T14:27:07.491</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\audio-white.png">
       <PackagePath>www\css\images\icons-png\audio-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:00.939</Modified>
+      <Modified>2016-06-24T14:27:07.506</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\back-black.png">
       <PackagePath>www\css\images\icons-png\back-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:00.948</Modified>
+      <Modified>2016-06-24T14:27:07.506</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\back-white.png">
       <PackagePath>www\css\images\icons-png\back-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:00.955</Modified>
+      <Modified>2016-06-24T14:27:07.506</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\bars-black.png">
       <PackagePath>www\css\images\icons-png\bars-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:00.962</Modified>
+      <Modified>2016-06-24T14:27:07.522</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\bars-white.png">
       <PackagePath>www\css\images\icons-png\bars-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:00.968</Modified>
+      <Modified>2016-06-24T14:27:07.522</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\bullets-black.png">
       <PackagePath>www\css\images\icons-png\bullets-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:00.973</Modified>
+      <Modified>2016-06-24T14:27:07.538</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\bullets-white.png">
       <PackagePath>www\css\images\icons-png\bullets-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:00.979</Modified>
+      <Modified>2016-06-24T14:27:07.538</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\calendar-black.png">
       <PackagePath>www\css\images\icons-png\calendar-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:00.986</Modified>
+      <Modified>2016-06-24T14:27:07.538</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\calendar-white.png">
       <PackagePath>www\css\images\icons-png\calendar-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:00.991</Modified>
+      <Modified>2016-06-24T14:27:07.553</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\camera-black.png">
       <PackagePath>www\css\images\icons-png\camera-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:00.997</Modified>
+      <Modified>2016-06-24T14:27:07.553</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\camera-white.png">
       <PackagePath>www\css\images\icons-png\camera-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.004</Modified>
+      <Modified>2016-06-24T14:27:07.569</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\carat-d-black.png">
       <PackagePath>www\css\images\icons-png\carat-d-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.010</Modified>
+      <Modified>2016-06-24T14:27:07.569</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\carat-d-white.png">
       <PackagePath>www\css\images\icons-png\carat-d-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.017</Modified>
+      <Modified>2016-06-24T14:27:07.569</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\carat-l-black.png">
       <PackagePath>www\css\images\icons-png\carat-l-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.023</Modified>
+      <Modified>2016-06-24T14:27:07.584</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\carat-l-white.png">
       <PackagePath>www\css\images\icons-png\carat-l-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.029</Modified>
+      <Modified>2016-06-24T14:27:07.584</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\carat-r-black.png">
       <PackagePath>www\css\images\icons-png\carat-r-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.033</Modified>
+      <Modified>2016-06-24T14:27:07.600</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\carat-r-white.png">
       <PackagePath>www\css\images\icons-png\carat-r-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.037</Modified>
+      <Modified>2016-06-24T14:27:07.600</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\carat-u-black.png">
       <PackagePath>www\css\images\icons-png\carat-u-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.042</Modified>
+      <Modified>2016-06-24T14:27:07.616</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\carat-u-white.png">
       <PackagePath>www\css\images\icons-png\carat-u-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.047</Modified>
+      <Modified>2016-06-24T14:27:07.616</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\check-black.png">
       <PackagePath>www\css\images\icons-png\check-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.053</Modified>
+      <Modified>2016-06-24T14:27:07.616</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\check-white.png">
       <PackagePath>www\css\images\icons-png\check-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.058</Modified>
+      <Modified>2016-06-24T14:27:07.631</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\clock-black.png">
       <PackagePath>www\css\images\icons-png\clock-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.062</Modified>
+      <Modified>2016-06-24T14:27:07.631</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\clock-white.png">
       <PackagePath>www\css\images\icons-png\clock-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.067</Modified>
+      <Modified>2016-06-24T14:27:07.647</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\cloud-black.png">
       <PackagePath>www\css\images\icons-png\cloud-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.072</Modified>
+      <Modified>2016-06-24T14:27:07.647</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\cloud-white.png">
       <PackagePath>www\css\images\icons-png\cloud-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.077</Modified>
+      <Modified>2016-06-24T14:27:07.663</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\comment-black.png">
       <PackagePath>www\css\images\icons-png\comment-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.082</Modified>
+      <Modified>2016-06-24T14:27:07.663</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\comment-white.png">
       <PackagePath>www\css\images\icons-png\comment-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.087</Modified>
+      <Modified>2016-06-24T14:27:07.678</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\delete-black.png">
       <PackagePath>www\css\images\icons-png\delete-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.092</Modified>
+      <Modified>2016-06-24T14:27:07.678</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\delete-white.png">
       <PackagePath>www\css\images\icons-png\delete-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.097</Modified>
+      <Modified>2016-06-24T14:27:07.694</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\edit-black.png">
       <PackagePath>www\css\images\icons-png\edit-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.102</Modified>
+      <Modified>2016-06-24T14:27:07.694</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\edit-white.png">
       <PackagePath>www\css\images\icons-png\edit-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.107</Modified>
+      <Modified>2016-06-24T14:27:07.709</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\eye-black.png">
       <PackagePath>www\css\images\icons-png\eye-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.112</Modified>
+      <Modified>2016-06-24T14:27:07.709</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\eye-white.png">
       <PackagePath>www\css\images\icons-png\eye-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.117</Modified>
+      <Modified>2016-06-24T14:27:07.725</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\forbidden-black.png">
       <PackagePath>www\css\images\icons-png\forbidden-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.122</Modified>
+      <Modified>2016-06-24T14:27:07.725</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\forbidden-white.png">
       <PackagePath>www\css\images\icons-png\forbidden-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.127</Modified>
+      <Modified>2016-06-24T14:27:07.741</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\forward-black.png">
       <PackagePath>www\css\images\icons-png\forward-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.132</Modified>
+      <Modified>2016-06-24T14:27:07.741</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\forward-white.png">
       <PackagePath>www\css\images\icons-png\forward-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.137</Modified>
+      <Modified>2016-06-24T14:27:07.741</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\gear-black.png">
       <PackagePath>www\css\images\icons-png\gear-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.142</Modified>
+      <Modified>2016-06-24T14:27:07.760</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\gear-white.png">
       <PackagePath>www\css\images\icons-png\gear-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.147</Modified>
+      <Modified>2016-06-24T14:27:07.767</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\grid-black.png">
       <PackagePath>www\css\images\icons-png\grid-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.153</Modified>
+      <Modified>2016-06-24T14:27:07.773</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\grid-white.png">
       <PackagePath>www\css\images\icons-png\grid-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.159</Modified>
+      <Modified>2016-06-24T14:27:07.782</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\heart-black.png">
       <PackagePath>www\css\images\icons-png\heart-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.164</Modified>
+      <Modified>2016-06-24T14:27:07.789</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\heart-white.png">
       <PackagePath>www\css\images\icons-png\heart-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.170</Modified>
+      <Modified>2016-06-24T14:27:07.796</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\home-black.png">
       <PackagePath>www\css\images\icons-png\home-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.176</Modified>
+      <Modified>2016-06-24T14:27:07.803</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\home-white.png">
       <PackagePath>www\css\images\icons-png\home-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.181</Modified>
+      <Modified>2016-06-24T14:27:07.804</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\info-black.png">
       <PackagePath>www\css\images\icons-png\info-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.186</Modified>
+      <Modified>2016-06-24T14:27:07.804</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\info-white.png">
       <PackagePath>www\css\images\icons-png\info-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.191</Modified>
+      <Modified>2016-06-24T14:27:07.819</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\layers-2x.png">
       <PackagePath>www\css\images\icons-png\layers-2x.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.197</Modified>
+      <Modified>2016-06-24T14:27:07.819</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\layers.png">
       <PackagePath>www\css\images\icons-png\layers.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.203</Modified>
+      <Modified>2016-06-24T14:27:07.835</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\location-black.png">
       <PackagePath>www\css\images\icons-png\location-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.211</Modified>
+      <Modified>2016-06-24T14:27:07.835</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\location-white.png">
       <PackagePath>www\css\images\icons-png\location-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.219</Modified>
+      <Modified>2016-06-24T14:27:07.835</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\lock-black.png">
       <PackagePath>www\css\images\icons-png\lock-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.226</Modified>
+      <Modified>2016-06-24T14:27:07.851</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\lock-white.png">
       <PackagePath>www\css\images\icons-png\lock-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.232</Modified>
+      <Modified>2016-06-24T14:27:07.851</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\mail-black.png">
       <PackagePath>www\css\images\icons-png\mail-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.237</Modified>
+      <Modified>2016-06-24T14:27:07.866</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\mail-white.png">
       <PackagePath>www\css\images\icons-png\mail-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.243</Modified>
+      <Modified>2016-06-24T14:27:07.866</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\marker-icon-2x.png">
       <PackagePath>www\css\images\icons-png\marker-icon-2x.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.249</Modified>
+      <Modified>2016-06-24T14:27:07.882</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\marker-icon.png">
       <PackagePath>www\css\images\icons-png\marker-icon.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.254</Modified>
+      <Modified>2016-06-24T14:27:07.882</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\marker-shadow.png">
       <PackagePath>www\css\images\icons-png\marker-shadow.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.260</Modified>
+      <Modified>2016-06-24T14:27:07.898</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\minus-black.png">
       <PackagePath>www\css\images\icons-png\minus-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.265</Modified>
+      <Modified>2016-06-24T14:27:07.898</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\minus-white.png">
       <PackagePath>www\css\images\icons-png\minus-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.269</Modified>
+      <Modified>2016-06-24T14:27:07.898</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\navigation-black.png">
       <PackagePath>www\css\images\icons-png\navigation-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.275</Modified>
+      <Modified>2016-06-24T14:27:07.913</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\navigation-white.png">
       <PackagePath>www\css\images\icons-png\navigation-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.280</Modified>
+      <Modified>2016-06-24T14:27:07.913</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\phone-black.png">
       <PackagePath>www\css\images\icons-png\phone-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.285</Modified>
+      <Modified>2016-06-24T14:27:07.929</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\phone-white.png">
       <PackagePath>www\css\images\icons-png\phone-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.290</Modified>
+      <Modified>2016-06-24T14:27:07.929</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\plus-black.png">
       <PackagePath>www\css\images\icons-png\plus-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.295</Modified>
+      <Modified>2016-06-24T14:27:07.944</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\plus-white.png">
       <PackagePath>www\css\images\icons-png\plus-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.300</Modified>
+      <Modified>2016-06-24T14:27:07.944</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\power-black.png">
       <PackagePath>www\css\images\icons-png\power-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.305</Modified>
+      <Modified>2016-06-24T14:27:07.944</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\power-white.png">
       <PackagePath>www\css\images\icons-png\power-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.310</Modified>
+      <Modified>2016-06-24T14:27:07.960</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\recycle-black.png">
       <PackagePath>www\css\images\icons-png\recycle-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.316</Modified>
+      <Modified>2016-06-24T14:27:07.960</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\recycle-white.png">
       <PackagePath>www\css\images\icons-png\recycle-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.321</Modified>
+      <Modified>2016-06-24T14:27:07.976</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\refresh-black.png">
       <PackagePath>www\css\images\icons-png\refresh-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.326</Modified>
+      <Modified>2016-06-24T14:27:07.976</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\refresh-white.png">
       <PackagePath>www\css\images\icons-png\refresh-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.332</Modified>
+      <Modified>2016-06-24T14:27:07.991</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\search-black.png">
       <PackagePath>www\css\images\icons-png\search-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.339</Modified>
+      <Modified>2016-06-24T14:27:07.991</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\search-white.png">
       <PackagePath>www\css\images\icons-png\search-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.345</Modified>
+      <Modified>2016-06-24T14:27:07.991</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\shop-black.png">
       <PackagePath>www\css\images\icons-png\shop-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.351</Modified>
+      <Modified>2016-06-24T14:27:08.007</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\shop-white.png">
       <PackagePath>www\css\images\icons-png\shop-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.359</Modified>
+      <Modified>2016-06-24T14:27:08.007</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\star-black.png">
       <PackagePath>www\css\images\icons-png\star-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.366</Modified>
+      <Modified>2016-06-24T14:27:08.022</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\star-white.png">
       <PackagePath>www\css\images\icons-png\star-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.373</Modified>
+      <Modified>2016-06-24T14:27:08.022</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\tag-black.png">
       <PackagePath>www\css\images\icons-png\tag-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.379</Modified>
+      <Modified>2016-06-24T14:27:08.038</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\tag-white.png">
       <PackagePath>www\css\images\icons-png\tag-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.385</Modified>
+      <Modified>2016-06-24T14:27:08.038</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\user-black.png">
       <PackagePath>www\css\images\icons-png\user-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.392</Modified>
+      <Modified>2016-06-24T14:27:08.038</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\user-white.png">
       <PackagePath>www\css\images\icons-png\user-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.399</Modified>
+      <Modified>2016-06-24T14:27:08.054</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\video-black.png">
       <PackagePath>www\css\images\icons-png\video-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.406</Modified>
+      <Modified>2016-06-24T14:27:08.054</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\video-white.png">
       <PackagePath>www\css\images\icons-png\video-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:01.413</Modified>
+      <Modified>2016-06-24T14:27:08.069</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\layers-2x.png">
       <PackagePath>www\css\images\layers-2x.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.190</Modified>
+      <Modified>2016-06-24T14:27:09.028</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\layers.png">
       <PackagePath>www\css\images\layers.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.196</Modified>
+      <Modified>2016-06-24T14:27:09.043</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\marker-icon-2x.png">
       <PackagePath>www\css\images\marker-icon-2x.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.201</Modified>
+      <Modified>2016-06-24T14:27:09.043</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\marker-icon.png">
       <PackagePath>www\css\images\marker-icon.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.208</Modified>
+      <Modified>2016-06-24T14:27:09.059</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\marker-shadow.png">
       <PackagePath>www\css\images\marker-shadow.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.214</Modified>
+      <Modified>2016-06-24T14:27:09.059</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\spritesheet.png">
       <PackagePath>www\css\images\spritesheet.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.219</Modified>
+      <Modified>2016-06-24T14:27:09.074</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\images\cordova.png">
       <PackagePath>www\images\cordova.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.402</Modified>
+      <Modified>2016-06-24T14:27:09.356</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\action-black.png">
       <PackagePath>www\scripts\images\icons-png\action-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.449</Modified>
+      <Modified>2016-06-24T14:27:09.404</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\action-white.png">
       <PackagePath>www\scripts\images\icons-png\action-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.456</Modified>
+      <Modified>2016-06-24T14:27:09.419</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\alert-black.png">
       <PackagePath>www\scripts\images\icons-png\alert-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.468</Modified>
+      <Modified>2016-06-24T14:27:09.435</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\alert-white.png">
       <PackagePath>www\scripts\images\icons-png\alert-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.475</Modified>
+      <Modified>2016-06-24T14:27:09.435</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\arrow-d-black.png">
       <PackagePath>www\scripts\images\icons-png\arrow-d-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.481</Modified>
+      <Modified>2016-06-24T14:27:09.435</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\arrow-d-l-black.png">
       <PackagePath>www\scripts\images\icons-png\arrow-d-l-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.487</Modified>
+      <Modified>2016-06-24T14:27:09.451</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\arrow-d-l-white.png">
       <PackagePath>www\scripts\images\icons-png\arrow-d-l-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.492</Modified>
+      <Modified>2016-06-24T14:27:09.451</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\arrow-d-r-black.png">
       <PackagePath>www\scripts\images\icons-png\arrow-d-r-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.497</Modified>
+      <Modified>2016-06-24T14:27:09.466</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\arrow-d-r-white.png">
       <PackagePath>www\scripts\images\icons-png\arrow-d-r-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.502</Modified>
+      <Modified>2016-06-24T14:27:09.466</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\arrow-d-white.png">
       <PackagePath>www\scripts\images\icons-png\arrow-d-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.508</Modified>
+      <Modified>2016-06-24T14:27:09.466</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\arrow-l-black.png">
       <PackagePath>www\scripts\images\icons-png\arrow-l-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.513</Modified>
+      <Modified>2016-06-24T14:27:09.482</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\arrow-l-white.png">
       <PackagePath>www\scripts\images\icons-png\arrow-l-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.518</Modified>
+      <Modified>2016-06-24T14:27:09.482</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\arrow-r-black.png">
       <PackagePath>www\scripts\images\icons-png\arrow-r-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.522</Modified>
+      <Modified>2016-06-24T14:27:09.498</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\arrow-r-white.png">
       <PackagePath>www\scripts\images\icons-png\arrow-r-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.527</Modified>
+      <Modified>2016-06-24T14:27:09.498</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\arrow-u-black.png">
       <PackagePath>www\scripts\images\icons-png\arrow-u-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.531</Modified>
+      <Modified>2016-06-24T14:27:09.498</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\arrow-u-l-black.png">
       <PackagePath>www\scripts\images\icons-png\arrow-u-l-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.536</Modified>
+      <Modified>2016-06-24T14:27:09.513</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\arrow-u-l-white.png">
       <PackagePath>www\scripts\images\icons-png\arrow-u-l-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.541</Modified>
+      <Modified>2016-06-24T14:27:09.513</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\arrow-u-r-black.png">
       <PackagePath>www\scripts\images\icons-png\arrow-u-r-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.546</Modified>
+      <Modified>2016-06-24T14:27:09.529</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\arrow-u-r-white.png">
       <PackagePath>www\scripts\images\icons-png\arrow-u-r-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.551</Modified>
+      <Modified>2016-06-24T14:27:09.529</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\arrow-u-white.png">
       <PackagePath>www\scripts\images\icons-png\arrow-u-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.556</Modified>
+      <Modified>2016-06-24T14:27:09.544</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\audio-black.png">
       <PackagePath>www\scripts\images\icons-png\audio-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.561</Modified>
+      <Modified>2016-06-24T14:27:09.544</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\audio-white.png">
       <PackagePath>www\scripts\images\icons-png\audio-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.566</Modified>
+      <Modified>2016-06-24T14:27:09.544</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\back-black.png">
       <PackagePath>www\scripts\images\icons-png\back-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.571</Modified>
+      <Modified>2016-06-24T14:27:09.560</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\back-white.png">
       <PackagePath>www\scripts\images\icons-png\back-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.577</Modified>
+      <Modified>2016-06-24T14:27:09.560</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\bars-black.png">
       <PackagePath>www\scripts\images\icons-png\bars-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.583</Modified>
+      <Modified>2016-06-24T14:27:09.576</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\bars-white.png">
       <PackagePath>www\scripts\images\icons-png\bars-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.590</Modified>
+      <Modified>2016-06-24T14:27:09.587</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\bullets-black.png">
       <PackagePath>www\scripts\images\icons-png\bullets-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.596</Modified>
+      <Modified>2016-06-24T14:27:09.595</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\bullets-white.png">
       <PackagePath>www\scripts\images\icons-png\bullets-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.602</Modified>
+      <Modified>2016-06-24T14:27:09.601</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\calendar-black.png">
       <PackagePath>www\scripts\images\icons-png\calendar-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.609</Modified>
+      <Modified>2016-06-24T14:27:09.607</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\calendar-white.png">
       <PackagePath>www\scripts\images\icons-png\calendar-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.615</Modified>
+      <Modified>2016-06-24T14:27:09.613</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\camera-black.png">
       <PackagePath>www\scripts\images\icons-png\camera-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.621</Modified>
+      <Modified>2016-06-24T14:27:09.619</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\camera-white.png">
       <PackagePath>www\scripts\images\icons-png\camera-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.627</Modified>
+      <Modified>2016-06-24T14:27:09.621</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\carat-d-black.png">
       <PackagePath>www\scripts\images\icons-png\carat-d-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.634</Modified>
+      <Modified>2016-06-24T14:27:09.621</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\carat-d-white.png">
       <PackagePath>www\scripts\images\icons-png\carat-d-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.640</Modified>
+      <Modified>2016-06-24T14:27:09.636</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\carat-l-black.png">
       <PackagePath>www\scripts\images\icons-png\carat-l-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.646</Modified>
+      <Modified>2016-06-24T14:27:09.636</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\carat-l-white.png">
       <PackagePath>www\scripts\images\icons-png\carat-l-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.652</Modified>
+      <Modified>2016-06-24T14:27:09.636</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\carat-r-black.png">
       <PackagePath>www\scripts\images\icons-png\carat-r-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.658</Modified>
+      <Modified>2016-06-24T14:27:09.652</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\carat-r-white.png">
       <PackagePath>www\scripts\images\icons-png\carat-r-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.663</Modified>
+      <Modified>2016-06-24T14:27:09.652</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\carat-u-black.png">
       <PackagePath>www\scripts\images\icons-png\carat-u-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.668</Modified>
+      <Modified>2016-06-24T14:27:09.652</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\carat-u-white.png">
       <PackagePath>www\scripts\images\icons-png\carat-u-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.673</Modified>
+      <Modified>2016-06-24T14:27:09.667</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\check-black.png">
       <PackagePath>www\scripts\images\icons-png\check-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.678</Modified>
+      <Modified>2016-06-24T14:27:09.667</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\check-white.png">
       <PackagePath>www\scripts\images\icons-png\check-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.683</Modified>
+      <Modified>2016-06-24T14:27:09.683</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\clock-black.png">
       <PackagePath>www\scripts\images\icons-png\clock-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.688</Modified>
+      <Modified>2016-06-24T14:27:09.683</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\clock-white.png">
       <PackagePath>www\scripts\images\icons-png\clock-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.693</Modified>
+      <Modified>2016-06-24T14:27:09.699</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\cloud-black.png">
       <PackagePath>www\scripts\images\icons-png\cloud-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.698</Modified>
+      <Modified>2016-06-24T14:27:09.699</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\cloud-white.png">
       <PackagePath>www\scripts\images\icons-png\cloud-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.702</Modified>
+      <Modified>2016-06-24T14:27:09.717</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\comment-black.png">
       <PackagePath>www\scripts\images\icons-png\comment-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.708</Modified>
+      <Modified>2016-06-24T14:27:09.724</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\comment-white.png">
       <PackagePath>www\scripts\images\icons-png\comment-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.713</Modified>
+      <Modified>2016-06-24T14:27:09.731</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\delete-black.png">
       <PackagePath>www\scripts\images\icons-png\delete-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.718</Modified>
+      <Modified>2016-06-24T14:27:09.740</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\delete-white.png">
       <PackagePath>www\scripts\images\icons-png\delete-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.724</Modified>
+      <Modified>2016-06-24T14:27:09.748</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\edit-black.png">
       <PackagePath>www\scripts\images\icons-png\edit-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.729</Modified>
+      <Modified>2016-06-24T14:27:09.754</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\edit-white.png">
       <PackagePath>www\scripts\images\icons-png\edit-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.734</Modified>
+      <Modified>2016-06-24T14:27:09.762</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\eye-black.png">
       <PackagePath>www\scripts\images\icons-png\eye-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.739</Modified>
+      <Modified>2016-06-24T14:27:09.768</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\eye-white.png">
       <PackagePath>www\scripts\images\icons-png\eye-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.744</Modified>
+      <Modified>2016-06-24T14:27:09.772</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\forbidden-black.png">
       <PackagePath>www\scripts\images\icons-png\forbidden-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.749</Modified>
+      <Modified>2016-06-24T14:27:09.772</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\forbidden-white.png">
       <PackagePath>www\scripts\images\icons-png\forbidden-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.754</Modified>
+      <Modified>2016-06-24T14:27:09.787</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\forward-black.png">
       <PackagePath>www\scripts\images\icons-png\forward-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.760</Modified>
+      <Modified>2016-06-24T14:27:09.787</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\forward-white.png">
       <PackagePath>www\scripts\images\icons-png\forward-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.765</Modified>
+      <Modified>2016-06-24T14:27:09.787</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\gear-black.png">
       <PackagePath>www\scripts\images\icons-png\gear-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.770</Modified>
+      <Modified>2016-06-24T14:27:09.803</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\gear-white.png">
       <PackagePath>www\scripts\images\icons-png\gear-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.775</Modified>
+      <Modified>2016-06-24T14:27:09.803</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\grid-black.png">
       <PackagePath>www\scripts\images\icons-png\grid-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.780</Modified>
+      <Modified>2016-06-24T14:27:09.819</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\grid-white.png">
       <PackagePath>www\scripts\images\icons-png\grid-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.785</Modified>
+      <Modified>2016-06-24T14:27:09.819</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\heart-black.png">
       <PackagePath>www\scripts\images\icons-png\heart-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.790</Modified>
+      <Modified>2016-06-24T14:27:09.834</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\heart-white.png">
       <PackagePath>www\scripts\images\icons-png\heart-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.795</Modified>
+      <Modified>2016-06-24T14:27:09.845</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\home-black.png">
       <PackagePath>www\scripts\images\icons-png\home-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.800</Modified>
+      <Modified>2016-06-24T14:27:09.857</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\home-white.png">
       <PackagePath>www\scripts\images\icons-png\home-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.806</Modified>
+      <Modified>2016-06-24T14:27:09.868</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\info-black.png">
       <PackagePath>www\scripts\images\icons-png\info-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.812</Modified>
+      <Modified>2016-06-24T14:27:09.880</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\info-white.png">
       <PackagePath>www\scripts\images\icons-png\info-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.817</Modified>
+      <Modified>2016-06-24T14:27:09.896</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\layers-2x.png">
       <PackagePath>www\scripts\images\icons-png\layers-2x.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.822</Modified>
+      <Modified>2016-06-24T14:27:09.911</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\layers.png">
       <PackagePath>www\scripts\images\icons-png\layers.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.827</Modified>
+      <Modified>2016-06-24T14:27:09.928</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\location-black.png">
       <PackagePath>www\scripts\images\icons-png\location-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.832</Modified>
+      <Modified>2016-06-24T14:27:09.947</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\location-white.png">
       <PackagePath>www\scripts\images\icons-png\location-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.837</Modified>
+      <Modified>2016-06-24T14:27:09.968</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\lock-black.png">
       <PackagePath>www\scripts\images\icons-png\lock-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.842</Modified>
+      <Modified>2016-06-24T14:27:09.982</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\lock-white.png">
       <PackagePath>www\scripts\images\icons-png\lock-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.847</Modified>
+      <Modified>2016-06-24T14:27:09.996</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\mail-black.png">
       <PackagePath>www\scripts\images\icons-png\mail-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.852</Modified>
+      <Modified>2016-06-24T14:27:10.004</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\mail-white.png">
       <PackagePath>www\scripts\images\icons-png\mail-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.858</Modified>
+      <Modified>2016-06-24T14:27:10.014</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\marker-icon-2x.png">
       <PackagePath>www\scripts\images\icons-png\marker-icon-2x.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.864</Modified>
+      <Modified>2016-06-24T14:27:10.035</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\marker-icon.png">
       <PackagePath>www\scripts\images\icons-png\marker-icon.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.870</Modified>
+      <Modified>2016-06-24T14:27:10.054</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\marker-shadow.png">
       <PackagePath>www\scripts\images\icons-png\marker-shadow.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.876</Modified>
+      <Modified>2016-06-24T14:27:10.072</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\minus-black.png">
       <PackagePath>www\scripts\images\icons-png\minus-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.883</Modified>
+      <Modified>2016-06-24T14:27:10.083</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\minus-white.png">
       <PackagePath>www\scripts\images\icons-png\minus-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.890</Modified>
+      <Modified>2016-06-24T14:27:10.094</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\navigation-black.png">
       <PackagePath>www\scripts\images\icons-png\navigation-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.896</Modified>
+      <Modified>2016-06-24T14:27:10.101</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\navigation-white.png">
       <PackagePath>www\scripts\images\icons-png\navigation-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.902</Modified>
+      <Modified>2016-06-24T14:27:10.104</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\phone-black.png">
       <PackagePath>www\scripts\images\icons-png\phone-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.908</Modified>
+      <Modified>2016-06-24T14:27:10.104</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\phone-white.png">
       <PackagePath>www\scripts\images\icons-png\phone-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.913</Modified>
+      <Modified>2016-06-24T14:27:10.120</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\plus-black.png">
       <PackagePath>www\scripts\images\icons-png\plus-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.918</Modified>
+      <Modified>2016-06-24T14:27:10.120</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\plus-white.png">
       <PackagePath>www\scripts\images\icons-png\plus-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.924</Modified>
+      <Modified>2016-06-24T14:27:10.120</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\power-black.png">
       <PackagePath>www\scripts\images\icons-png\power-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.929</Modified>
+      <Modified>2016-06-24T14:27:10.136</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\power-white.png">
       <PackagePath>www\scripts\images\icons-png\power-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.934</Modified>
+      <Modified>2016-06-24T14:27:10.136</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\recycle-black.png">
       <PackagePath>www\scripts\images\icons-png\recycle-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.940</Modified>
+      <Modified>2016-06-24T14:27:10.151</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\recycle-white.png">
       <PackagePath>www\scripts\images\icons-png\recycle-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.945</Modified>
+      <Modified>2016-06-24T14:27:10.151</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\refresh-black.png">
       <PackagePath>www\scripts\images\icons-png\refresh-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.950</Modified>
+      <Modified>2016-06-24T14:27:10.167</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\refresh-white.png">
       <PackagePath>www\scripts\images\icons-png\refresh-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.955</Modified>
+      <Modified>2016-06-24T14:27:10.167</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\search-black.png">
       <PackagePath>www\scripts\images\icons-png\search-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.961</Modified>
+      <Modified>2016-06-24T14:27:10.187</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\search-white.png">
       <PackagePath>www\scripts\images\icons-png\search-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.966</Modified>
+      <Modified>2016-06-24T14:27:10.196</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\shop-black.png">
       <PackagePath>www\scripts\images\icons-png\shop-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.972</Modified>
+      <Modified>2016-06-24T14:27:10.205</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\shop-white.png">
       <PackagePath>www\scripts\images\icons-png\shop-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.977</Modified>
+      <Modified>2016-06-24T14:27:10.214</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\star-black.png">
       <PackagePath>www\scripts\images\icons-png\star-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.983</Modified>
+      <Modified>2016-06-24T14:27:10.226</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\star-white.png">
       <PackagePath>www\scripts\images\icons-png\star-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.988</Modified>
+      <Modified>2016-06-24T14:27:10.241</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\tag-black.png">
       <PackagePath>www\scripts\images\icons-png\tag-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.993</Modified>
+      <Modified>2016-06-24T14:27:10.252</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\tag-white.png">
       <PackagePath>www\scripts\images\icons-png\tag-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:02.998</Modified>
+      <Modified>2016-06-24T14:27:10.272</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\user-black.png">
       <PackagePath>www\scripts\images\icons-png\user-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:03.004</Modified>
+      <Modified>2016-06-24T14:27:10.282</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\user-white.png">
       <PackagePath>www\scripts\images\icons-png\user-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:03.011</Modified>
+      <Modified>2016-06-24T14:27:10.300</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\video-black.png">
       <PackagePath>www\scripts\images\icons-png\video-black.png</PackagePath>
-      <Modified>2016-06-21T20:29:03.018</Modified>
+      <Modified>2016-06-24T14:27:10.326</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\video-white.png">
       <PackagePath>www\scripts\images\icons-png\video-white.png</PackagePath>
-      <Modified>2016-06-21T20:29:03.024</Modified>
+      <Modified>2016-06-24T14:27:10.348</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\layers-2x.png">
       <PackagePath>www\scripts\images\layers-2x.png</PackagePath>
-      <Modified>2016-06-21T20:29:03.825</Modified>
+      <Modified>2016-06-24T14:27:11.613</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\layers.png">
       <PackagePath>www\scripts\images\layers.png</PackagePath>
-      <Modified>2016-06-21T20:29:03.833</Modified>
+      <Modified>2016-06-24T14:27:11.628</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\marker-icon-2x.png">
       <PackagePath>www\scripts\images\marker-icon-2x.png</PackagePath>
-      <Modified>2016-06-21T20:29:03.839</Modified>
+      <Modified>2016-06-24T14:27:11.628</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\marker-icon.png">
       <PackagePath>www\scripts\images\marker-icon.png</PackagePath>
-      <Modified>2016-06-21T20:29:03.845</Modified>
+      <Modified>2016-06-24T14:27:11.644</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\marker-shadow.png">
       <PackagePath>www\scripts\images\marker-shadow.png</PackagePath>
-      <Modified>2016-06-21T20:29:03.851</Modified>
+      <Modified>2016-06-24T14:27:11.644</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\cordova-js-src\exec.js">
       <PackagePath>www\cordova-js-src\exec.js</PackagePath>
-      <Modified>2016-06-21T20:29:04.833</Modified>
+      <Modified>2016-06-24T14:27:13.137</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\cordova-js-src\platform.js">
       <PackagePath>www\cordova-js-src\platform.js</PackagePath>
-      <Modified>2016-06-21T20:29:04.839</Modified>
+      <Modified>2016-06-24T14:27:13.137</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\cordova.js">
       <PackagePath>www\cordova.js</PackagePath>
-      <Modified>2016-06-21T20:29:04.046</Modified>
+      <Modified>2016-06-24T14:27:11.944</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\cordova_plugins.js">
       <PackagePath>www\cordova_plugins.js</PackagePath>
-      <Modified>2016-06-21T20:29:04.846</Modified>
+      <Modified>2016-06-24T14:27:13.137</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\plugins\cordova-plugin-dialogs\src\windows\NotificationProxy.js">
       <PackagePath>www\plugins\cordova-plugin-dialogs\src\windows\NotificationProxy.js</PackagePath>
-      <Modified>2016-06-21T20:29:04.939</Modified>
+      <Modified>2016-06-24T14:27:13.259</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\plugins\cordova-plugin-dialogs\www\notification.js">
       <PackagePath>www\plugins\cordova-plugin-dialogs\www\notification.js</PackagePath>
-      <Modified>2016-06-21T20:29:04.945</Modified>
+      <Modified>2016-06-24T14:27:13.275</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\appBundle.js">
       <PackagePath>www\scripts\appBundle.js</PackagePath>
-      <Modified>2016-06-21T20:29:04.952</Modified>
+      <Modified>2016-06-24T14:27:13.275</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\jquery-2.2.3.intellisense.js">
       <PackagePath>www\scripts\jquery-2.2.3.intellisense.js</PackagePath>
-      <Modified>2016-06-21T20:29:04.959</Modified>
+      <Modified>2016-06-24T14:27:13.290</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\jquery-2.2.3.js">
       <PackagePath>www\scripts\jquery-2.2.3.js</PackagePath>
-      <Modified>2016-06-21T20:29:04.968</Modified>
+      <Modified>2016-06-24T14:27:13.290</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\jquery-2.2.3.min.js">
       <PackagePath>www\scripts\jquery-2.2.3.min.js</PackagePath>
-      <Modified>2016-06-21T20:29:04.975</Modified>
+      <Modified>2016-06-24T14:27:13.306</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\jquery.mobile-1.4.5.js">
       <PackagePath>www\scripts\jquery.mobile-1.4.5.js</PackagePath>
-      <Modified>2016-06-21T20:29:04.989</Modified>
+      <Modified>2016-06-24T14:27:13.321</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\jquery.mobile-1.4.5.min.js">
       <PackagePath>www\scripts\jquery.mobile-1.4.5.min.js</PackagePath>
-      <Modified>2016-06-21T20:29:04.998</Modified>
+      <Modified>2016-06-24T14:27:13.337</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\leaflet-0.7.3.js">
       <PackagePath>www\scripts\leaflet-0.7.3.js</PackagePath>
-      <Modified>2016-06-21T20:29:05.010</Modified>
+      <Modified>2016-06-24T14:27:13.337</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\leaflet-0.7.3.min.js">
       <PackagePath>www\scripts\leaflet-0.7.3.min.js</PackagePath>
-      <Modified>2016-06-21T20:29:05.018</Modified>
+      <Modified>2016-06-24T14:27:13.353</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\leaflet.draw.js">
       <PackagePath>www\scripts\leaflet.draw.js</PackagePath>
-      <Modified>2016-06-21T20:29:03.961</Modified>
+      <Modified>2016-06-24T14:27:11.821</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\Leaflet.Editable.js">
       <PackagePath>www\scripts\Leaflet.Editable.js</PackagePath>
-      <Modified>2016-06-21T20:29:03.973</Modified>
+      <Modified>2016-06-24T14:27:11.837</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\leaflet.geometryutil.js">
       <PackagePath>www\scripts\leaflet.geometryutil.js</PackagePath>
-      <Modified>2016-06-21T20:29:03.983</Modified>
+      <Modified>2016-06-24T14:27:11.860</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\leaflet.js">
       <PackagePath>www\scripts\leaflet.js</PackagePath>
-      <Modified>2016-06-21T20:29:03.994</Modified>
+      <Modified>2016-06-24T14:27:11.871</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\platformOverrides.js">
       <PackagePath>www\scripts\platformOverrides.js</PackagePath>
-      <Modified>2016-06-21T20:29:04.103</Modified>
+      <Modified>2016-06-24T14:27:12.016</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\pouchdb.min.js">
       <PackagePath>www\scripts\pouchdb.min.js</PackagePath>
-      <Modified>2016-06-21T20:29:04.014</Modified>
+      <Modified>2016-06-24T14:27:11.903</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\winstore-jscompat.js">
       <PackagePath>www\scripts\winstore-jscompat.js</PackagePath>
-      <Modified>2016-06-21T20:29:04.111</Modified>
+      <Modified>2016-06-24T14:27:12.032</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\WinJS\js\base.js">
       <PackagePath>www\WinJS\js\base.js</PackagePath>
-      <Modified>2016-06-21T20:29:04.091</Modified>
+      <Modified>2016-06-24T14:27:12.001</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\ajax-loader.gif">
       <PackagePath>www\css\images\ajax-loader.gif</PackagePath>
-      <Modified>2016-06-21T20:29:00.792</Modified>
+      <Modified>2016-06-24T14:27:07.334</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-png\ajax-loader.gif">
       <PackagePath>www\css\images\icons-png\ajax-loader.gif</PackagePath>
-      <Modified>2016-06-21T20:29:00.822</Modified>
+      <Modified>2016-06-24T14:27:07.366</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\ajax-loader.gif">
       <PackagePath>www\scripts\images\ajax-loader.gif</PackagePath>
-      <Modified>2016-06-21T20:29:02.442</Modified>
+      <Modified>2016-06-24T14:27:09.404</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-png\ajax-loader.gif">
       <PackagePath>www\scripts\images\icons-png\ajax-loader.gif</PackagePath>
-      <Modified>2016-06-21T20:29:02.462</Modified>
+      <Modified>2016-06-24T14:27:09.419</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\action-black.svg">
       <PackagePath>www\css\images\icons-svg\action-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.420</Modified>
+      <Modified>2016-06-24T14:27:08.069</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\action-white.svg">
       <PackagePath>www\css\images\icons-svg\action-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.428</Modified>
+      <Modified>2016-06-24T14:27:08.085</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\alert-black.svg">
       <PackagePath>www\css\images\icons-svg\alert-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.435</Modified>
+      <Modified>2016-06-24T14:27:08.085</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\alert-white.svg">
       <PackagePath>www\css\images\icons-svg\alert-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.443</Modified>
+      <Modified>2016-06-24T14:27:08.101</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\arrow-d-black.svg">
       <PackagePath>www\css\images\icons-svg\arrow-d-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.450</Modified>
+      <Modified>2016-06-24T14:27:08.116</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\arrow-d-l-black.svg">
       <PackagePath>www\css\images\icons-svg\arrow-d-l-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.457</Modified>
+      <Modified>2016-06-24T14:27:08.116</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\arrow-d-l-white.svg">
       <PackagePath>www\css\images\icons-svg\arrow-d-l-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.464</Modified>
+      <Modified>2016-06-24T14:27:08.132</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\arrow-d-r-black.svg">
       <PackagePath>www\css\images\icons-svg\arrow-d-r-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.471</Modified>
+      <Modified>2016-06-24T14:27:08.132</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\arrow-d-r-white.svg">
       <PackagePath>www\css\images\icons-svg\arrow-d-r-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.478</Modified>
+      <Modified>2016-06-24T14:27:08.148</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\arrow-d-white.svg">
       <PackagePath>www\css\images\icons-svg\arrow-d-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.485</Modified>
+      <Modified>2016-06-24T14:27:08.148</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\arrow-l-black.svg">
       <PackagePath>www\css\images\icons-svg\arrow-l-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.493</Modified>
+      <Modified>2016-06-24T14:27:08.163</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\arrow-l-white.svg">
       <PackagePath>www\css\images\icons-svg\arrow-l-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.500</Modified>
+      <Modified>2016-06-24T14:27:08.179</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\arrow-r-black.svg">
       <PackagePath>www\css\images\icons-svg\arrow-r-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.507</Modified>
+      <Modified>2016-06-24T14:27:08.179</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\arrow-r-white.svg">
       <PackagePath>www\css\images\icons-svg\arrow-r-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.514</Modified>
+      <Modified>2016-06-24T14:27:08.194</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\arrow-u-black.svg">
       <PackagePath>www\css\images\icons-svg\arrow-u-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.521</Modified>
+      <Modified>2016-06-24T14:27:08.210</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\arrow-u-l-black.svg">
       <PackagePath>www\css\images\icons-svg\arrow-u-l-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.528</Modified>
+      <Modified>2016-06-24T14:27:08.210</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\arrow-u-l-white.svg">
       <PackagePath>www\css\images\icons-svg\arrow-u-l-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.536</Modified>
+      <Modified>2016-06-24T14:27:08.226</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\arrow-u-r-black.svg">
       <PackagePath>www\css\images\icons-svg\arrow-u-r-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.543</Modified>
+      <Modified>2016-06-24T14:27:08.226</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\arrow-u-r-white.svg">
       <PackagePath>www\css\images\icons-svg\arrow-u-r-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.550</Modified>
+      <Modified>2016-06-24T14:27:08.241</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\arrow-u-white.svg">
       <PackagePath>www\css\images\icons-svg\arrow-u-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.558</Modified>
+      <Modified>2016-06-24T14:27:08.257</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\audio-black.svg">
       <PackagePath>www\css\images\icons-svg\audio-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.567</Modified>
+      <Modified>2016-06-24T14:27:08.257</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\audio-white.svg">
       <PackagePath>www\css\images\icons-svg\audio-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.576</Modified>
+      <Modified>2016-06-24T14:27:08.273</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\back-black.svg">
       <PackagePath>www\css\images\icons-svg\back-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.583</Modified>
+      <Modified>2016-06-24T14:27:08.273</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\back-white.svg">
       <PackagePath>www\css\images\icons-svg\back-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.591</Modified>
+      <Modified>2016-06-24T14:27:08.288</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\bars-black.svg">
       <PackagePath>www\css\images\icons-svg\bars-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.597</Modified>
+      <Modified>2016-06-24T14:27:08.307</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\bars-white.svg">
       <PackagePath>www\css\images\icons-svg\bars-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.605</Modified>
+      <Modified>2016-06-24T14:27:08.317</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\bullets-black.svg">
       <PackagePath>www\css\images\icons-svg\bullets-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.612</Modified>
+      <Modified>2016-06-24T14:27:08.326</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\bullets-white.svg">
       <PackagePath>www\css\images\icons-svg\bullets-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.619</Modified>
+      <Modified>2016-06-24T14:27:08.337</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\calendar-black.svg">
       <PackagePath>www\css\images\icons-svg\calendar-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.626</Modified>
+      <Modified>2016-06-24T14:27:08.338</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\calendar-white.svg">
       <PackagePath>www\css\images\icons-svg\calendar-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.633</Modified>
+      <Modified>2016-06-24T14:27:08.354</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\camera-black.svg">
       <PackagePath>www\css\images\icons-svg\camera-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.640</Modified>
+      <Modified>2016-06-24T14:27:08.354</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\camera-white.svg">
       <PackagePath>www\css\images\icons-svg\camera-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.647</Modified>
+      <Modified>2016-06-24T14:27:08.369</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\carat-d-black.svg">
       <PackagePath>www\css\images\icons-svg\carat-d-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.654</Modified>
+      <Modified>2016-06-24T14:27:08.385</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\carat-d-white.svg">
       <PackagePath>www\css\images\icons-svg\carat-d-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.662</Modified>
+      <Modified>2016-06-24T14:27:08.385</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\carat-l-black.svg">
       <PackagePath>www\css\images\icons-svg\carat-l-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.669</Modified>
+      <Modified>2016-06-24T14:27:08.401</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\carat-l-white.svg">
       <PackagePath>www\css\images\icons-svg\carat-l-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.676</Modified>
+      <Modified>2016-06-24T14:27:08.401</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\carat-r-black.svg">
       <PackagePath>www\css\images\icons-svg\carat-r-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.683</Modified>
+      <Modified>2016-06-24T14:27:08.416</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\carat-r-white.svg">
       <PackagePath>www\css\images\icons-svg\carat-r-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.690</Modified>
+      <Modified>2016-06-24T14:27:08.437</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\carat-u-black.svg">
       <PackagePath>www\css\images\icons-svg\carat-u-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.697</Modified>
+      <Modified>2016-06-24T14:27:08.447</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\carat-u-white.svg">
       <PackagePath>www\css\images\icons-svg\carat-u-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.704</Modified>
+      <Modified>2016-06-24T14:27:08.455</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\check-black.svg">
       <PackagePath>www\css\images\icons-svg\check-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.712</Modified>
+      <Modified>2016-06-24T14:27:08.455</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\check-white.svg">
       <PackagePath>www\css\images\icons-svg\check-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.719</Modified>
+      <Modified>2016-06-24T14:27:08.471</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\clock-black.svg">
       <PackagePath>www\css\images\icons-svg\clock-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.726</Modified>
+      <Modified>2016-06-24T14:27:08.471</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\clock-white.svg">
       <PackagePath>www\css\images\icons-svg\clock-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.734</Modified>
+      <Modified>2016-06-24T14:27:08.487</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\cloud-black.svg">
       <PackagePath>www\css\images\icons-svg\cloud-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.742</Modified>
+      <Modified>2016-06-24T14:27:08.487</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\cloud-white.svg">
       <PackagePath>www\css\images\icons-svg\cloud-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.750</Modified>
+      <Modified>2016-06-24T14:27:08.502</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\comment-black.svg">
       <PackagePath>www\css\images\icons-svg\comment-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.759</Modified>
+      <Modified>2016-06-24T14:27:08.518</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\comment-white.svg">
       <PackagePath>www\css\images\icons-svg\comment-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.768</Modified>
+      <Modified>2016-06-24T14:27:08.518</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\delete-black.svg">
       <PackagePath>www\css\images\icons-svg\delete-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.777</Modified>
+      <Modified>2016-06-24T14:27:08.534</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\delete-white.svg">
       <PackagePath>www\css\images\icons-svg\delete-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.785</Modified>
+      <Modified>2016-06-24T14:27:08.549</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\edit-black.svg">
       <PackagePath>www\css\images\icons-svg\edit-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.793</Modified>
+      <Modified>2016-06-24T14:27:08.549</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\edit-white.svg">
       <PackagePath>www\css\images\icons-svg\edit-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.801</Modified>
+      <Modified>2016-06-24T14:27:08.565</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\eye-black.svg">
       <PackagePath>www\css\images\icons-svg\eye-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.809</Modified>
+      <Modified>2016-06-24T14:27:08.580</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\eye-white.svg">
       <PackagePath>www\css\images\icons-svg\eye-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.829</Modified>
+      <Modified>2016-06-24T14:27:08.580</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\forbidden-black.svg">
       <PackagePath>www\css\images\icons-svg\forbidden-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.838</Modified>
+      <Modified>2016-06-24T14:27:08.596</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\forbidden-white.svg">
       <PackagePath>www\css\images\icons-svg\forbidden-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.845</Modified>
+      <Modified>2016-06-24T14:27:08.612</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\forward-black.svg">
       <PackagePath>www\css\images\icons-svg\forward-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.852</Modified>
+      <Modified>2016-06-24T14:27:08.612</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\forward-white.svg">
       <PackagePath>www\css\images\icons-svg\forward-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.859</Modified>
+      <Modified>2016-06-24T14:27:08.627</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\gear-black.svg">
       <PackagePath>www\css\images\icons-svg\gear-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.866</Modified>
+      <Modified>2016-06-24T14:27:08.627</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\gear-white.svg">
       <PackagePath>www\css\images\icons-svg\gear-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.874</Modified>
+      <Modified>2016-06-24T14:27:08.643</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\grid-black.svg">
       <PackagePath>www\css\images\icons-svg\grid-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.882</Modified>
+      <Modified>2016-06-24T14:27:08.659</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\grid-white.svg">
       <PackagePath>www\css\images\icons-svg\grid-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.890</Modified>
+      <Modified>2016-06-24T14:27:08.659</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\heart-black.svg">
       <PackagePath>www\css\images\icons-svg\heart-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.896</Modified>
+      <Modified>2016-06-24T14:27:08.674</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\heart-white.svg">
       <PackagePath>www\css\images\icons-svg\heart-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.902</Modified>
+      <Modified>2016-06-24T14:27:08.690</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\home-black.svg">
       <PackagePath>www\css\images\icons-svg\home-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.910</Modified>
+      <Modified>2016-06-24T14:27:08.690</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\home-white.svg">
       <PackagePath>www\css\images\icons-svg\home-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.920</Modified>
+      <Modified>2016-06-24T14:27:08.705</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\info-black.svg">
       <PackagePath>www\css\images\icons-svg\info-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.929</Modified>
+      <Modified>2016-06-24T14:27:08.721</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\info-white.svg">
       <PackagePath>www\css\images\icons-svg\info-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.938</Modified>
+      <Modified>2016-06-24T14:27:08.721</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\location-black.svg">
       <PackagePath>www\css\images\icons-svg\location-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.946</Modified>
+      <Modified>2016-06-24T14:27:08.737</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\location-white.svg">
       <PackagePath>www\css\images\icons-svg\location-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.954</Modified>
+      <Modified>2016-06-24T14:27:08.737</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\lock-black.svg">
       <PackagePath>www\css\images\icons-svg\lock-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.961</Modified>
+      <Modified>2016-06-24T14:27:08.752</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\lock-white.svg">
       <PackagePath>www\css\images\icons-svg\lock-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.968</Modified>
+      <Modified>2016-06-24T14:27:08.752</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\mail-black.svg">
       <PackagePath>www\css\images\icons-svg\mail-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.976</Modified>
+      <Modified>2016-06-24T14:27:08.768</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\mail-white.svg">
       <PackagePath>www\css\images\icons-svg\mail-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.984</Modified>
+      <Modified>2016-06-24T14:27:08.784</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\minus-black.svg">
       <PackagePath>www\css\images\icons-svg\minus-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:01.992</Modified>
+      <Modified>2016-06-24T14:27:08.784</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\minus-white.svg">
       <PackagePath>www\css\images\icons-svg\minus-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:02.000</Modified>
+      <Modified>2016-06-24T14:27:08.799</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\navigation-black.svg">
       <PackagePath>www\css\images\icons-svg\navigation-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:02.009</Modified>
+      <Modified>2016-06-24T14:27:08.799</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\navigation-white.svg">
       <PackagePath>www\css\images\icons-svg\navigation-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:02.017</Modified>
+      <Modified>2016-06-24T14:27:08.815</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\phone-black.svg">
       <PackagePath>www\css\images\icons-svg\phone-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:02.024</Modified>
+      <Modified>2016-06-24T14:27:08.815</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\phone-white.svg">
       <PackagePath>www\css\images\icons-svg\phone-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:02.032</Modified>
+      <Modified>2016-06-24T14:27:08.830</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\plus-black.svg">
       <PackagePath>www\css\images\icons-svg\plus-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:02.039</Modified>
+      <Modified>2016-06-24T14:27:08.849</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\plus-white.svg">
       <PackagePath>www\css\images\icons-svg\plus-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:02.046</Modified>
+      <Modified>2016-06-24T14:27:08.859</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\power-black.svg">
       <PackagePath>www\css\images\icons-svg\power-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:02.053</Modified>
+      <Modified>2016-06-24T14:27:08.868</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\power-white.svg">
       <PackagePath>www\css\images\icons-svg\power-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:02.061</Modified>
+      <Modified>2016-06-24T14:27:08.871</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\recycle-black.svg">
       <PackagePath>www\css\images\icons-svg\recycle-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:02.068</Modified>
+      <Modified>2016-06-24T14:27:08.887</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\recycle-white.svg">
       <PackagePath>www\css\images\icons-svg\recycle-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:02.075</Modified>
+      <Modified>2016-06-24T14:27:08.887</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\refresh-black.svg">
       <PackagePath>www\css\images\icons-svg\refresh-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:02.086</Modified>
+      <Modified>2016-06-24T14:27:08.903</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\refresh-white.svg">
       <PackagePath>www\css\images\icons-svg\refresh-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:02.096</Modified>
+      <Modified>2016-06-24T14:27:08.903</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\search-black.svg">
       <PackagePath>www\css\images\icons-svg\search-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:02.103</Modified>
+      <Modified>2016-06-24T14:27:08.918</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\search-white.svg">
       <PackagePath>www\css\images\icons-svg\search-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:02.111</Modified>
+      <Modified>2016-06-24T14:27:08.918</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\shop-black.svg">
       <PackagePath>www\css\images\icons-svg\shop-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:02.118</Modified>
+      <Modified>2016-06-24T14:27:08.934</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\shop-white.svg">
       <PackagePath>www\css\images\icons-svg\shop-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:02.125</Modified>
+      <Modified>2016-06-24T14:27:08.949</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\star-black.svg">
       <PackagePath>www\css\images\icons-svg\star-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:02.133</Modified>
+      <Modified>2016-06-24T14:27:08.949</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\star-white.svg">
       <PackagePath>www\css\images\icons-svg\star-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:02.140</Modified>
+      <Modified>2016-06-24T14:27:08.965</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\tag-black.svg">
       <PackagePath>www\css\images\icons-svg\tag-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:02.147</Modified>
+      <Modified>2016-06-24T14:27:08.965</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\tag-white.svg">
       <PackagePath>www\css\images\icons-svg\tag-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:02.154</Modified>
+      <Modified>2016-06-24T14:27:08.981</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\user-black.svg">
       <PackagePath>www\css\images\icons-svg\user-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:02.162</Modified>
+      <Modified>2016-06-24T14:27:08.996</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\user-white.svg">
       <PackagePath>www\css\images\icons-svg\user-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:02.169</Modified>
+      <Modified>2016-06-24T14:27:09.012</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\video-black.svg">
       <PackagePath>www\css\images\icons-svg\video-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:02.177</Modified>
+      <Modified>2016-06-24T14:27:09.012</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\images\icons-svg\video-white.svg">
       <PackagePath>www\css\images\icons-svg\video-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:02.183</Modified>
+      <Modified>2016-06-24T14:27:09.028</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\action-black.svg">
       <PackagePath>www\scripts\images\icons-svg\action-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.030</Modified>
+      <Modified>2016-06-24T14:27:10.371</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\action-white.svg">
       <PackagePath>www\scripts\images\icons-svg\action-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.037</Modified>
+      <Modified>2016-06-24T14:27:10.382</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\alert-black.svg">
       <PackagePath>www\scripts\images\icons-svg\alert-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.044</Modified>
+      <Modified>2016-06-24T14:27:10.395</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\alert-white.svg">
       <PackagePath>www\scripts\images\icons-svg\alert-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.050</Modified>
+      <Modified>2016-06-24T14:27:10.418</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\arrow-d-black.svg">
       <PackagePath>www\scripts\images\icons-svg\arrow-d-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.057</Modified>
+      <Modified>2016-06-24T14:27:10.431</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\arrow-d-l-black.svg">
       <PackagePath>www\scripts\images\icons-svg\arrow-d-l-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.064</Modified>
+      <Modified>2016-06-24T14:27:10.447</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\arrow-d-l-white.svg">
       <PackagePath>www\scripts\images\icons-svg\arrow-d-l-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.072</Modified>
+      <Modified>2016-06-24T14:27:10.461</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\arrow-d-r-black.svg">
       <PackagePath>www\scripts\images\icons-svg\arrow-d-r-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.079</Modified>
+      <Modified>2016-06-24T14:27:10.471</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\arrow-d-r-white.svg">
       <PackagePath>www\scripts\images\icons-svg\arrow-d-r-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.087</Modified>
+      <Modified>2016-06-24T14:27:10.481</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\arrow-d-white.svg">
       <PackagePath>www\scripts\images\icons-svg\arrow-d-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.094</Modified>
+      <Modified>2016-06-24T14:27:10.490</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\arrow-l-black.svg">
       <PackagePath>www\scripts\images\icons-svg\arrow-l-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.101</Modified>
+      <Modified>2016-06-24T14:27:10.497</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\arrow-l-white.svg">
       <PackagePath>www\scripts\images\icons-svg\arrow-l-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.107</Modified>
+      <Modified>2016-06-24T14:27:10.507</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\arrow-r-black.svg">
       <PackagePath>www\scripts\images\icons-svg\arrow-r-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.114</Modified>
+      <Modified>2016-06-24T14:27:10.516</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\arrow-r-white.svg">
       <PackagePath>www\scripts\images\icons-svg\arrow-r-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.121</Modified>
+      <Modified>2016-06-24T14:27:10.526</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\arrow-u-black.svg">
       <PackagePath>www\scripts\images\icons-svg\arrow-u-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.129</Modified>
+      <Modified>2016-06-24T14:27:10.535</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\arrow-u-l-black.svg">
       <PackagePath>www\scripts\images\icons-svg\arrow-u-l-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.136</Modified>
+      <Modified>2016-06-24T14:27:10.538</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\arrow-u-l-white.svg">
       <PackagePath>www\scripts\images\icons-svg\arrow-u-l-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.143</Modified>
+      <Modified>2016-06-24T14:27:10.554</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\arrow-u-r-black.svg">
       <PackagePath>www\scripts\images\icons-svg\arrow-u-r-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.150</Modified>
+      <Modified>2016-06-24T14:27:10.554</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\arrow-u-r-white.svg">
       <PackagePath>www\scripts\images\icons-svg\arrow-u-r-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.158</Modified>
+      <Modified>2016-06-24T14:27:10.569</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\arrow-u-white.svg">
       <PackagePath>www\scripts\images\icons-svg\arrow-u-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.165</Modified>
+      <Modified>2016-06-24T14:27:10.569</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\audio-black.svg">
       <PackagePath>www\scripts\images\icons-svg\audio-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.172</Modified>
+      <Modified>2016-06-24T14:27:10.592</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\audio-white.svg">
       <PackagePath>www\scripts\images\icons-svg\audio-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.181</Modified>
+      <Modified>2016-06-24T14:27:10.606</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\back-black.svg">
       <PackagePath>www\scripts\images\icons-svg\back-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.189</Modified>
+      <Modified>2016-06-24T14:27:10.616</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\back-white.svg">
       <PackagePath>www\scripts\images\icons-svg\back-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.197</Modified>
+      <Modified>2016-06-24T14:27:10.636</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\bars-black.svg">
       <PackagePath>www\scripts\images\icons-svg\bars-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.204</Modified>
+      <Modified>2016-06-24T14:27:10.659</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\bars-white.svg">
       <PackagePath>www\scripts\images\icons-svg\bars-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.213</Modified>
+      <Modified>2016-06-24T14:27:10.668</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\bullets-black.svg">
       <PackagePath>www\scripts\images\icons-svg\bullets-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.220</Modified>
+      <Modified>2016-06-24T14:27:10.694</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\bullets-white.svg">
       <PackagePath>www\scripts\images\icons-svg\bullets-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.228</Modified>
+      <Modified>2016-06-24T14:27:10.725</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\calendar-black.svg">
       <PackagePath>www\scripts\images\icons-svg\calendar-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.235</Modified>
+      <Modified>2016-06-24T14:27:10.745</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\calendar-white.svg">
       <PackagePath>www\scripts\images\icons-svg\calendar-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.242</Modified>
+      <Modified>2016-06-24T14:27:10.767</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\camera-black.svg">
       <PackagePath>www\scripts\images\icons-svg\camera-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.249</Modified>
+      <Modified>2016-06-24T14:27:10.787</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\camera-white.svg">
       <PackagePath>www\scripts\images\icons-svg\camera-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.255</Modified>
+      <Modified>2016-06-24T14:27:10.808</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\carat-d-black.svg">
       <PackagePath>www\scripts\images\icons-svg\carat-d-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.262</Modified>
+      <Modified>2016-06-24T14:27:10.827</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\carat-d-white.svg">
       <PackagePath>www\scripts\images\icons-svg\carat-d-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.269</Modified>
+      <Modified>2016-06-24T14:27:10.842</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\carat-l-black.svg">
       <PackagePath>www\scripts\images\icons-svg\carat-l-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.277</Modified>
+      <Modified>2016-06-24T14:27:10.853</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\carat-l-white.svg">
       <PackagePath>www\scripts\images\icons-svg\carat-l-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.284</Modified>
+      <Modified>2016-06-24T14:27:10.862</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\carat-r-black.svg">
       <PackagePath>www\scripts\images\icons-svg\carat-r-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.292</Modified>
+      <Modified>2016-06-24T14:27:10.871</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\carat-r-white.svg">
       <PackagePath>www\scripts\images\icons-svg\carat-r-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.299</Modified>
+      <Modified>2016-06-24T14:27:10.872</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\carat-u-black.svg">
       <PackagePath>www\scripts\images\icons-svg\carat-u-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.307</Modified>
+      <Modified>2016-06-24T14:27:10.887</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\carat-u-white.svg">
       <PackagePath>www\scripts\images\icons-svg\carat-u-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.314</Modified>
+      <Modified>2016-06-24T14:27:10.887</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\check-black.svg">
       <PackagePath>www\scripts\images\icons-svg\check-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.321</Modified>
+      <Modified>2016-06-24T14:27:10.903</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\check-white.svg">
       <PackagePath>www\scripts\images\icons-svg\check-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.329</Modified>
+      <Modified>2016-06-24T14:27:10.903</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\clock-black.svg">
       <PackagePath>www\scripts\images\icons-svg\clock-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.336</Modified>
+      <Modified>2016-06-24T14:27:10.921</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\clock-white.svg">
       <PackagePath>www\scripts\images\icons-svg\clock-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.343</Modified>
+      <Modified>2016-06-24T14:27:10.937</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\cloud-black.svg">
       <PackagePath>www\scripts\images\icons-svg\cloud-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.349</Modified>
+      <Modified>2016-06-24T14:27:10.950</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\cloud-white.svg">
       <PackagePath>www\scripts\images\icons-svg\cloud-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.357</Modified>
+      <Modified>2016-06-24T14:27:10.968</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\comment-black.svg">
       <PackagePath>www\scripts\images\icons-svg\comment-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.363</Modified>
+      <Modified>2016-06-24T14:27:10.981</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\comment-white.svg">
       <PackagePath>www\scripts\images\icons-svg\comment-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.370</Modified>
+      <Modified>2016-06-24T14:27:10.999</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\delete-black.svg">
       <PackagePath>www\scripts\images\icons-svg\delete-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.378</Modified>
+      <Modified>2016-06-24T14:27:11.027</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\delete-white.svg">
       <PackagePath>www\scripts\images\icons-svg\delete-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.386</Modified>
+      <Modified>2016-06-24T14:27:11.041</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\edit-black.svg">
       <PackagePath>www\scripts\images\icons-svg\edit-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.393</Modified>
+      <Modified>2016-06-24T14:27:11.052</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\edit-white.svg">
       <PackagePath>www\scripts\images\icons-svg\edit-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.400</Modified>
+      <Modified>2016-06-24T14:27:11.076</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\eye-black.svg">
       <PackagePath>www\scripts\images\icons-svg\eye-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.410</Modified>
+      <Modified>2016-06-24T14:27:11.103</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\eye-white.svg">
       <PackagePath>www\scripts\images\icons-svg\eye-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.418</Modified>
+      <Modified>2016-06-24T14:27:11.126</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\forbidden-black.svg">
       <PackagePath>www\scripts\images\icons-svg\forbidden-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.426</Modified>
+      <Modified>2016-06-24T14:27:11.137</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\forbidden-white.svg">
       <PackagePath>www\scripts\images\icons-svg\forbidden-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.433</Modified>
+      <Modified>2016-06-24T14:27:11.154</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\forward-black.svg">
       <PackagePath>www\scripts\images\icons-svg\forward-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.442</Modified>
+      <Modified>2016-06-24T14:27:11.171</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\forward-white.svg">
       <PackagePath>www\scripts\images\icons-svg\forward-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.450</Modified>
+      <Modified>2016-06-24T14:27:11.183</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\gear-black.svg">
       <PackagePath>www\scripts\images\icons-svg\gear-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.458</Modified>
+      <Modified>2016-06-24T14:27:11.192</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\gear-white.svg">
       <PackagePath>www\scripts\images\icons-svg\gear-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.468</Modified>
+      <Modified>2016-06-24T14:27:11.202</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\grid-black.svg">
       <PackagePath>www\scripts\images\icons-svg\grid-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.478</Modified>
+      <Modified>2016-06-24T14:27:11.204</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\grid-white.svg">
       <PackagePath>www\scripts\images\icons-svg\grid-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.487</Modified>
+      <Modified>2016-06-24T14:27:11.220</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\heart-black.svg">
       <PackagePath>www\scripts\images\icons-svg\heart-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.495</Modified>
+      <Modified>2016-06-24T14:27:11.230</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\heart-white.svg">
       <PackagePath>www\scripts\images\icons-svg\heart-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.504</Modified>
+      <Modified>2016-06-24T14:27:11.240</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\home-black.svg">
       <PackagePath>www\scripts\images\icons-svg\home-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.512</Modified>
+      <Modified>2016-06-24T14:27:11.243</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\home-white.svg">
       <PackagePath>www\scripts\images\icons-svg\home-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.519</Modified>
+      <Modified>2016-06-24T14:27:11.259</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\info-black.svg">
       <PackagePath>www\scripts\images\icons-svg\info-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.527</Modified>
+      <Modified>2016-06-24T14:27:11.275</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\info-white.svg">
       <PackagePath>www\scripts\images\icons-svg\info-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.535</Modified>
+      <Modified>2016-06-24T14:27:11.275</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\location-black.svg">
       <PackagePath>www\scripts\images\icons-svg\location-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.542</Modified>
+      <Modified>2016-06-24T14:27:11.290</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\location-white.svg">
       <PackagePath>www\scripts\images\icons-svg\location-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.548</Modified>
+      <Modified>2016-06-24T14:27:11.290</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\lock-black.svg">
       <PackagePath>www\scripts\images\icons-svg\lock-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.555</Modified>
+      <Modified>2016-06-24T14:27:11.306</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\lock-white.svg">
       <PackagePath>www\scripts\images\icons-svg\lock-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.563</Modified>
+      <Modified>2016-06-24T14:27:11.321</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\mail-black.svg">
       <PackagePath>www\scripts\images\icons-svg\mail-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.572</Modified>
+      <Modified>2016-06-24T14:27:11.337</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\mail-white.svg">
       <PackagePath>www\scripts\images\icons-svg\mail-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.581</Modified>
+      <Modified>2016-06-24T14:27:11.337</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\minus-black.svg">
       <PackagePath>www\scripts\images\icons-svg\minus-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.590</Modified>
+      <Modified>2016-06-24T14:27:11.353</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\minus-white.svg">
       <PackagePath>www\scripts\images\icons-svg\minus-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.599</Modified>
+      <Modified>2016-06-24T14:27:11.368</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\navigation-black.svg">
       <PackagePath>www\scripts\images\icons-svg\navigation-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.642</Modified>
+      <Modified>2016-06-24T14:27:11.368</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\navigation-white.svg">
       <PackagePath>www\scripts\images\icons-svg\navigation-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.651</Modified>
+      <Modified>2016-06-24T14:27:11.384</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\phone-black.svg">
       <PackagePath>www\scripts\images\icons-svg\phone-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.659</Modified>
+      <Modified>2016-06-24T14:27:11.400</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\phone-white.svg">
       <PackagePath>www\scripts\images\icons-svg\phone-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.667</Modified>
+      <Modified>2016-06-24T14:27:11.400</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\plus-black.svg">
       <PackagePath>www\scripts\images\icons-svg\plus-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.675</Modified>
+      <Modified>2016-06-24T14:27:11.415</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\plus-white.svg">
       <PackagePath>www\scripts\images\icons-svg\plus-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.683</Modified>
+      <Modified>2016-06-24T14:27:11.431</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\power-black.svg">
       <PackagePath>www\scripts\images\icons-svg\power-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.691</Modified>
+      <Modified>2016-06-24T14:27:11.431</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\power-white.svg">
       <PackagePath>www\scripts\images\icons-svg\power-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.698</Modified>
+      <Modified>2016-06-24T14:27:11.446</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\recycle-black.svg">
       <PackagePath>www\scripts\images\icons-svg\recycle-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.705</Modified>
+      <Modified>2016-06-24T14:27:11.466</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\recycle-white.svg">
       <PackagePath>www\scripts\images\icons-svg\recycle-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.713</Modified>
+      <Modified>2016-06-24T14:27:11.476</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\refresh-black.svg">
       <PackagePath>www\scripts\images\icons-svg\refresh-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.719</Modified>
+      <Modified>2016-06-24T14:27:11.486</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\refresh-white.svg">
       <PackagePath>www\scripts\images\icons-svg\refresh-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.726</Modified>
+      <Modified>2016-06-24T14:27:11.488</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\search-black.svg">
       <PackagePath>www\scripts\images\icons-svg\search-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.733</Modified>
+      <Modified>2016-06-24T14:27:11.503</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\search-white.svg">
       <PackagePath>www\scripts\images\icons-svg\search-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.740</Modified>
+      <Modified>2016-06-24T14:27:11.503</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\shop-black.svg">
       <PackagePath>www\scripts\images\icons-svg\shop-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.747</Modified>
+      <Modified>2016-06-24T14:27:11.519</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\shop-white.svg">
       <PackagePath>www\scripts\images\icons-svg\shop-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.754</Modified>
+      <Modified>2016-06-24T14:27:11.534</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\star-black.svg">
       <PackagePath>www\scripts\images\icons-svg\star-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.762</Modified>
+      <Modified>2016-06-24T14:27:11.534</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\star-white.svg">
       <PackagePath>www\scripts\images\icons-svg\star-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.769</Modified>
+      <Modified>2016-06-24T14:27:11.550</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\tag-black.svg">
       <PackagePath>www\scripts\images\icons-svg\tag-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.776</Modified>
+      <Modified>2016-06-24T14:27:11.550</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\tag-white.svg">
       <PackagePath>www\scripts\images\icons-svg\tag-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.783</Modified>
+      <Modified>2016-06-24T14:27:11.566</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\user-black.svg">
       <PackagePath>www\scripts\images\icons-svg\user-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.791</Modified>
+      <Modified>2016-06-24T14:27:11.581</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\user-white.svg">
       <PackagePath>www\scripts\images\icons-svg\user-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.799</Modified>
+      <Modified>2016-06-24T14:27:11.581</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\video-black.svg">
       <PackagePath>www\scripts\images\icons-svg\video-black.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.807</Modified>
+      <Modified>2016-06-24T14:27:11.597</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\icons-svg\video-white.svg">
       <PackagePath>www\scripts\images\icons-svg\video-white.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.817</Modified>
+      <Modified>2016-06-24T14:27:11.613</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\images\spritesheet.svg">
       <PackagePath>www\scripts\images\spritesheet.svg</PackagePath>
-      <Modified>2016-06-21T20:29:03.858</Modified>
+      <Modified>2016-06-24T14:27:11.659</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\index.css">
       <PackagePath>www\css\index.css</PackagePath>
-      <Modified>2016-06-21T20:29:02.226</Modified>
+      <Modified>2016-06-24T14:27:09.074</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\jquery.mobile-1.4.5.css">
       <PackagePath>www\css\jquery.mobile-1.4.5.css</PackagePath>
-      <Modified>2016-06-21T20:29:04.853</Modified>
+      <Modified>2016-06-24T14:27:13.153</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\jquery.mobile-1.4.5.min.css">
       <PackagePath>www\css\jquery.mobile-1.4.5.min.css</PackagePath>
-      <Modified>2016-06-21T20:29:04.859</Modified>
+      <Modified>2016-06-24T14:27:13.168</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\jquery.mobile.external-png-1.4.5.css">
       <PackagePath>www\css\jquery.mobile.external-png-1.4.5.css</PackagePath>
-      <Modified>2016-06-21T20:29:04.864</Modified>
+      <Modified>2016-06-24T14:27:13.168</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\jquery.mobile.external-png-1.4.5.min.css">
       <PackagePath>www\css\jquery.mobile.external-png-1.4.5.min.css</PackagePath>
-      <Modified>2016-06-21T20:29:04.868</Modified>
+      <Modified>2016-06-24T14:27:13.168</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\jquery.mobile.icons-1.4.5.css">
       <PackagePath>www\css\jquery.mobile.icons-1.4.5.css</PackagePath>
-      <Modified>2016-06-21T20:29:04.873</Modified>
+      <Modified>2016-06-24T14:27:13.184</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\jquery.mobile.icons-1.4.5.min.css">
       <PackagePath>www\css\jquery.mobile.icons-1.4.5.min.css</PackagePath>
-      <Modified>2016-06-21T20:29:04.878</Modified>
+      <Modified>2016-06-24T14:27:13.184</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\jquery.mobile.inline-png-1.4.5.css">
       <PackagePath>www\css\jquery.mobile.inline-png-1.4.5.css</PackagePath>
-      <Modified>2016-06-21T20:29:04.885</Modified>
+      <Modified>2016-06-24T14:27:13.184</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\jquery.mobile.inline-png-1.4.5.min.css">
       <PackagePath>www\css\jquery.mobile.inline-png-1.4.5.min.css</PackagePath>
-      <Modified>2016-06-21T20:29:04.889</Modified>
+      <Modified>2016-06-24T14:27:13.200</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\jquery.mobile.inline-svg-1.4.5.css">
       <PackagePath>www\css\jquery.mobile.inline-svg-1.4.5.css</PackagePath>
-      <Modified>2016-06-21T20:29:04.896</Modified>
+      <Modified>2016-06-24T14:27:13.200</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\jquery.mobile.inline-svg-1.4.5.min.css">
       <PackagePath>www\css\jquery.mobile.inline-svg-1.4.5.min.css</PackagePath>
-      <Modified>2016-06-21T20:29:04.901</Modified>
+      <Modified>2016-06-24T14:27:13.200</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\jquery.mobile.structure-1.4.5.css">
       <PackagePath>www\css\jquery.mobile.structure-1.4.5.css</PackagePath>
-      <Modified>2016-06-21T20:29:04.906</Modified>
+      <Modified>2016-06-24T14:27:13.200</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\jquery.mobile.structure-1.4.5.min.css">
       <PackagePath>www\css\jquery.mobile.structure-1.4.5.min.css</PackagePath>
-      <Modified>2016-06-21T20:29:04.910</Modified>
+      <Modified>2016-06-24T14:27:13.215</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\jquery.mobile.theme-1.4.5.css">
       <PackagePath>www\css\jquery.mobile.theme-1.4.5.css</PackagePath>
-      <Modified>2016-06-21T20:29:04.917</Modified>
+      <Modified>2016-06-24T14:27:13.215</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\jquery.mobile.theme-1.4.5.min.css">
       <PackagePath>www\css\jquery.mobile.theme-1.4.5.min.css</PackagePath>
-      <Modified>2016-06-21T20:29:04.924</Modified>
+      <Modified>2016-06-24T14:27:13.215</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\leaflet.css">
       <PackagePath>www\css\leaflet.css</PackagePath>
-      <Modified>2016-06-21T20:29:04.931</Modified>
+      <Modified>2016-06-24T14:27:13.259</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\css\leaflet.draw.css">
       <PackagePath>www\css\leaflet.draw.css</PackagePath>
-      <Modified>2016-06-21T20:29:02.392</Modified>
+      <Modified>2016-06-24T14:27:09.340</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\index.html">
       <PackagePath>www\index.html</PackagePath>
-      <Modified>2016-06-21T20:29:02.410</Modified>
+      <Modified>2016-06-24T14:27:09.373</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\appBundle.js.map">
       <PackagePath>www\scripts\appBundle.js.map</PackagePath>
-      <Modified>2016-06-21T20:29:02.431</Modified>
+      <Modified>2016-06-24T14:27:09.393</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\jquery-2.2.3.min.map">
       <PackagePath>www\scripts\jquery-2.2.3.min.map</PackagePath>
-      <Modified>2016-06-21T20:29:03.895</Modified>
+      <Modified>2016-06-24T14:27:11.723</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\www\scripts\jquery.mobile-1.4.5.min.map">
       <PackagePath>www\scripts\jquery.mobile-1.4.5.min.map</PackagePath>
-      <Modified>2016-06-21T20:29:03.927</Modified>
+      <Modified>2016-06-24T14:27:11.775</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\config.xml">
       <PackagePath>config.xml</PackagePath>
-      <Modified>2016-06-21T20:29:00.055</Modified>
+      <Modified>2016-06-24T14:27:06.593</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raluo\Documents\Visual Studio 2015\Projects\Typescript_Map-master\Typescript_Map\platforms\windows\build\windows\debug\anycpu\win8.1\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2016-06-21T20:29:05.940</Modified>
+      <Modified>2016-06-24T14:27:14.844</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

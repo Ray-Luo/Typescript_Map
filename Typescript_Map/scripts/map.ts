@@ -23,24 +23,129 @@ module Map
         public static pt_list = [];
         public static temp_polyline;
         public static drawnItems;
-        public static html_window = window;
-
+        public static JSONStringList = [];
+        public static featureID_autoincrement = 0;
+        public static task_title;
+        public static author;
+        public static drawControl;
+        public static new_task_btn: HTMLButtonElement = <HTMLButtonElement>document.querySelector('#new-task');;
+        public static edit_task_btn: HTMLButtonElement = <HTMLButtonElement>document.querySelector('#edit-task');
+        public static save_task_btn: HTMLButtonElement = <HTMLButtonElement>document.querySelector('#save-task');
+        public static delete_task_btn: HTMLButtonElement = <HTMLButtonElement>document.querySelector('#delete-task');
+        public static add_btn: HTMLButtonElement = <HTMLButtonElement>document.querySelector('#submit');
 
 
         constructor(form: HTMLFormElement) {
             Map._this = this;
 
-            var new_task_btn = document.querySelector('#new-task');
-            var save_task_btn = document.querySelector('#save-task');
-            var edit_task_btn = document.querySelector('#edit-task');
-            var delete_task_btn = document.querySelector('#delete-task');
+            Map.new_task_btn.addEventListener('click', function (e) {
 
-            new_task_btn.addEventListener('click', function (e) {
+                Map.save_task_btn.disabled = false;
 
                 document.getElementById('abc').style.display = "block";
-                
+                document.getElementById('content').style.display = "none";
+
             });
-            
+
+            Map.add_btn.addEventListener('click', function (e) {
+
+                Map.task_title = $("#title").val();
+                Map.author = $("#author").val();
+
+                document.getElementById('abc').style.display = "none";
+                document.getElementById('content').style.display = "block";
+
+                if (Map.drawnItems.length != 0) {
+                    if (Map.drawControl === undefined) {
+                        // enable edit
+                        Map.drawControl = new L.Control.Draw({
+                            draw: {
+                                polygon: true,
+                                polyline: true,
+                                rectangle: true,
+                                circle: true,
+                                marker: true,
+                            },
+                            edit: {
+                                featureGroup: Map.drawnItems
+                            }
+                        });
+
+                        Map.mymap.addControl(Map.drawControl);
+                    }
+                }
+            });
+
+            Map.save_task_btn.addEventListener('click', function (e) {
+                navigator.notification.confirm(
+                    'Click Yes to save "' + Map.task_title + '"',  // message
+                    saveTask,         // callback
+                    'Save this task?',            // title
+                    ['Yes', 'Cancel']                  // buttonName
+                );
+
+                //  save to db
+                function saveTask(): void {
+                    var db_entry = {
+                        _id: Map.task_title,
+                        author: Map.author,
+                        last_modified: new Date().toISOString(),
+                        JSONList: Map.JSONStringList
+                    };
+
+                    Map.db.put(db_entry).then(function () {
+                        Map.edit_task_btn.disabled = false;
+                        Map.delete_task_btn.disabled = false;
+                    }).catch(function (err) {
+                        if (err.name === 'conflict') {
+                            navigator.notification.alert(
+                                'There is an entry with title "' + Map.task_title + '" already exsiting in the database',  // message
+                                rename_title,         // callback
+                                'Title Conflict!',            // title
+                                'Done'                  // buttonName
+                            );
+                        } else {
+                            // some other error
+                        }
+                    });
+                }
+
+                //  Error handler for title conflict
+                function rename_title(): void {
+                    document.getElementById('abc').style.display = "block";
+                    document.getElementById('content').style.display = "none";
+                }
+
+            });
+
+            Map.edit_task_btn.addEventListener('click', function (e) {
+
+                if (Map.drawControl != null)
+                    Map.mymap.removeControl(Map.drawControl);  
+
+                if (Map.drawnItems.length != 0) {
+                    // enable edit
+                    Map.drawControl = new L.Control.Draw({
+                        draw: {
+                            polygon: false,
+                            polyline: true,
+                            rectangle: false,
+                            circle: false,
+                            marker: true,
+                        },
+                        edit: {
+                            featureGroup: Map.drawnItems
+                        }
+                    });
+
+                    Map.mymap.addControl(Map.drawControl);
+                }
+
+            });
+
+
+
+
             this.initialize_map();
 
             this.setup_puuchDB();
@@ -48,36 +153,18 @@ module Map
 
         }
                 
-        addFeature = (x1: number, y1: number, x2: number, y2: number): void => {
-            if (x2 != 0 && y2 != 0) {
-                Map._this.addline(x1, y1, x2, y2);
-            } else
-            Map._this.addPoint(x1, y1);
-        }
-
-        addPoint = (x: number, y: number): void => {
-            L.marker([x, y]).addTo(Map.mymap);
-        }
-
-        addline = (x1: number, y1: number, x2: number, y2: number): void => {
-            var pointA = new L.LatLng(x1, y1);
-            var pointB = new L.LatLng(x2, y2);
-            var pointList = [pointA, pointB];
-
-            var firstpolyline = new L.Polyline(pointList).addTo(Map.mymap);
-            Map.mymap.setView([(x1 + x2) / 2, (y1 + y2) / 2]);
-        }
 
         initialize_map():void
         {
             $("h1").css("font-size", "36px");
 
+            Map.save_task_btn.disabled = true;
+
+            var edit_task_btn = document.querySelector('#edit-task');
+            var delete_task_btn = document.querySelector('#delete-task');
             
-           
+           //  Setting up leaflet map
             Map.mymap = new L.Map('mapid', { editable:true}).setView([36,-96], 13);
-
-            
-
             L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpandmbXliNDBjZWd2M2x6bDk3c2ZtOTkifQ._QA7i5Mpkd_m30IGElHziw', {
                 maxZoom: 18,
                 attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
@@ -86,34 +173,10 @@ module Map
                 id: 'mapbox.streets'
             }).addTo(Map.mymap);
      
-            L.circle([39.19, -96.5], 500, {
-                color: 'red',
-                fillColor: '#f03',
-                fillOpacity: 0.5
-            }).addTo(Map.mymap).bindPopup("I am a circle.");
-
-            L.polygon([
-                [39.18, -96.5],
-                [39.19, -96.6],
-                [39.17, -96.55]
-            ]).addTo(Map.mymap).bindPopup("I am a polygon.");
-
-
-
-
-
+            //  Initilize a FeatureGroup which stores all layers in order to edit them
             Map.drawnItems = new L.FeatureGroup();
             Map.mymap.addLayer(Map.drawnItems);
-                    
-            var drawControl = new L.Control.Draw({
-                edit: {
-                    featureGroup: Map.drawnItems
-                }
-            });
-            
-            Map.mymap.addControl(drawControl);  
-
-           
+                               
             //  Fired when start editting
             Map.mymap.on('draw:created', function (e) {
                 var title,
@@ -122,38 +185,11 @@ module Map
                     layerJSON,
                     newFeature;
 
-
-                navigator.notification.prompt(
-                    'Please give a title',  // message
-                    saveFeatureToDB,        // callback to invoke
-                    'New Task',            // title
-                    ['Ok', 'Exit'],             // buttonLabels
-                    'Inspection #1'                 // defaultText
-                );
-
-                function saveFeatureToDB(results):void
-                {
-                    title = results.input1;
-                    layer.title = title,
-                    layerJSON = layer.toGeoJSON(),
-                    newFeature = {
-                            _id: title,
-                            jsonString: JSON.stringify(layerJSON)
-                        };
-
-                    //  save in db
-                    Map.db.put(newFeature).then(function () {
-                    }).catch(function (err) {
-                        if (err.name === 'conflict') {
-                            window.alert("This title has already been used please give it another title");
-                        } else {
-                            // some other error
-                        }
-                    });
-                }
-
+                // add JSON string to the list
+                layer.title = Map.task_title + Map.featureID_autoincrement;
+                layerJSON = layer.toGeoJSON();
+                Map.JSONStringList.push(JSON.stringify(layerJSON));
                 
-
                 //  add layer to map
                 Map.drawnItems.addLayer(layer); 
                 Map.mymap.addLayer(layer);
@@ -186,30 +222,10 @@ module Map
 
             Map.mymap.on('draw:deleted', function (e) {
                 // Update db to save latest changes.
-                var i = 1;
+
             });
 
             function onMapClick(e) {
-              // var popup = L.popup(); popup.setLatLng(e.latlng).setContent("You clicked the map at " + e.latlng.toString()).openOn(Map.mymap);
-/*
-                var point = new L.LatLng(Number(e.latlng.lat.toString()), Number(e.latlng.lng.toString()));
-
-                //  Save them in the db
-                Map.db.get('line').then(function (line) {
-                    line.path_pt.push(point);
-                    return Map.db.put(line);
-                }).then(function () {
-                    return Map.db.get('line');
-                }).then(function (doc) {
-                    console.log(doc);
-                    });
-
-                //  Show them
-                Map.pt_list.push(point);
-                if (Map.temp_polyline != null)
-                    Map.mymap.removeLayer(Map.temp_polyline);
-                Map.temp_polyline = new L.Polyline(Map.pt_list).addTo(Map.mymap);
-*/
             }
 
             Map.mymap.on('click', onMapClick);
@@ -220,43 +236,34 @@ module Map
             Map.db = new PouchDB("LeveeInspection_1");
 
             {
-            /*
+           /*
             Map.db.destroy().then(function (response) {
                 // success
             }).catch(function (err) {
                 console.log(err);
             });   
- 
-            Map.db.allDocs({ include_docs: true, descending: true }, function (err, result) {
-                var features = result.rows;
+          */ }
 
-                for (var i = 0; i < features.length; i++) {
-                    //  if it is a point
-                    Map.db.get(features[i].doc._id).then(function (doc) {
-                        return Map.db.remove(doc);
-                    });
-                    
+
+            //  Reading layers from db
+            Map.db.allDocs({ include_docs: true, descending: true }, function (err, result) {
+                var tasks = result.rows;
+
+                for (var i = 0; i < tasks.length; i++) {
+                    for (var j = 0; j < tasks[i].doc.JSONList.length; j++) {
+                        var json = JSON.parse(tasks[i].doc.JSONList[j]);
+                        var geoJSON = L.geoJson(json);
+                        var newLayer = geoJSON.getLayers()[0];
+                        Map.drawnItems.addLayer(newLayer);
+                    }
+                }
+                if (Map.drawnItems.length === 0) {
+                    Map.edit_task_btn.disabled = true;
+                    Map.delete_task_btn.disabled = true;
                 }
             });
 
-*/ }
 
-            Map.db.allDocs({ include_docs: true, descending: true }, function (err, result) {
-                var features = result.rows;
-
-                for (var i = 0; i < features.length; i++)
-                {
-                    var json = JSON.parse(features[i].doc.jsonString);
-                    var geoJSON = L.geoJson(json);
-                    var newLayer = geoJSON.getLayers()[0];
-                    Map.drawnItems.addLayer(newLayer);
-                }
-            });
-            /*
-            db.changes({
-                since: 'now',
-                live: true
-            }).on('change', showTodos);   */
         }
 
 

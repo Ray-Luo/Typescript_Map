@@ -18,7 +18,7 @@
     <link rel="stylesheet" href="css/leaflet.draw.css" />
     <title>TypescriptMap</title>
 </head>
-<body  style="overflow:hidden;">
+<body   style="overflow:hidden;">
     <div class="app">
         <div id="deviceready" class="blink">
             <p class="event listening">Connecting to Device</p>
@@ -48,12 +48,12 @@
                 <!-- Contact Us Form -->
                 <form action="#" id="form" method="post" name="form">
                     <img id="close" src="css/images/cancel.png" onclick="div_hide()">
-                    <h2>Contact Us</h2>
+                    <h2>New Task</h2>
                     <hr>
-                    <input id="name" name="name" placeholder="Name" type="text">
-                    <input id="email" name="email" placeholder="Email" type="text">
-                    <textarea id="msg" name="message" placeholder="Message"></textarea>
-                    <a href="javascript:%20check_empty()" id="submit">Send</a>
+                    <input id="title" name="title" placeholder="Task Title" type="text">
+                    <input id="author" name="author" placeholder="Author" type="text">
+                    <textarea id="msg" name="message" placeholder="Comment"></textarea>
+                    <a  id="submit">Add Task</a>
                 </form>
             </div>
             <!-- Popup Div Ends Here -->
@@ -72,6 +72,13 @@
     <script src="scripts/pouchdb.min.js"></script>
     <script src="scripts/leaflet.draw.js"></script>
     <script src="scripts/leaflet.geometryutil.js"></script>
+
+    <script>
+        function div_hide() {
+            document.getElementById('abc').style.display = "none";
+            document.getElementById('content').style.display = "block";
+        }
+    </script>
 
 </body>
 </html>
